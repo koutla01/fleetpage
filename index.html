@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>Champion Purchasing</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <link rel="icon" type="image/jpeg" href="public/favicon.jpg" />
+        <script type="text/javascript" src="public/data.js"></script>
+       <script>
+        function load(){
+            var tableDiv = document.getElementById("table-holder");
+            Object.entries(data).forEach(([key, value]) => {
+                var heading = document.createElement('h3')
+                heading.appendChild(document.createTextNode(key))
+                var tbl = document.createElement('table');
+                tbl.classList.add('table', 'table-striped', 'table-hover');
+                var thd = document.createElement('thead');
+                var tr = document.createElement('tr');
+                Object.entries(value[0]).forEach(([key1, value1]) => {
+                    if (key1=="Pdf"){}
+                    else{
+                        var th = document.createElement('th');
+                        th.appendChild(document.createTextNode(key1));
+                        tr.appendChild(th);
+                    }
+                })
+                thd.appendChild(tr);
+                var tbod = document.createElement('tbody');
+                var baseDir = './public/pdfs'
+                Object.entries(value).forEach(([key1, value1]) => {
+                    var trb = document.createElement('tr');
+                    Object.entries(value1).forEach(([key2, value2]) => {
+                      var td = document.createElement('td');
+                      if (key2 == 'Pdf'){
+                       trb.setAttribute("onclick","document.location='./public/pdfs/"+value2+"'");
+                       trb.style.cssText= 'cursor:hand';
+                      }
+                      else{
+                          td.appendChild(document.createTextNode(value2));
+                      }
+                      trb.appendChild(td);
+                    });
+                    tbod.appendChild(trb);
+                });
+                tbl.appendChild(thd);
+                tbl.appendChild(tbod);
+                tableDiv.appendChild(heading)
+                tableDiv.appendChild(tbl);
+                tableDiv.appendChild(document.createElement('br'))
+            });
+            };
+        </script>
+        <style>
+        .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+            background-color: #e3f2fd;
+        }
+        </style>
+    </head>
+    <body onload="load()">
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd">
+            <a class="ml-auto " href="#"">
+                <img src="public/logo.png" width="" height="" alt="">
+              </a>
+              <a class="btn btn-outline-success ml-auto" href="mailto:koutland@championchev.com">Contact Fleet Department</a>
+          </nav>
+          <div class="container" id="table-holder"></div>
+          <div class="container" style="text-align: center;">
+          <script type="text/javascript" src="https://freecountercode.com/service/CdLtSBdOF0aGernx4o01"></script>
+        </div>
+        <br />
+    </body>
+</html>
