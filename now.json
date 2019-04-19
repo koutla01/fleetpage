@@ -1,7 +1,7 @@
 {
 	"version": 2,
 	"name": "champion",
-	"alias": ["championchevstatecontract.com"],
+	"alias": ["championchevnvstatecontract.com"],
 	"builds": [
 		{ "src": "index.html", "use": "@now/static" },
 		{ "src": "public/**/*", "use": "@now/static" }
