@@ -13,6 +13,7 @@
 2. Change any data, follow the standard data format.
 3. If you would like to check your formatting use this: [JSON Validator](https://jsonlint.com/).
   1. Copy everything in data.js except "data =" on the first line.
-  2. Paste it into the validator
+  2. Paste it into the validator.
+  3. It will tell you any errors.
 
 4. Commit the changes.
