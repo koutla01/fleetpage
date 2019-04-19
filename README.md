@@ -6,7 +6,7 @@
 ### Uploading a PDF:
 1. Navigate to *public/pdfs/* folder and select the PDF you want to change.
 2. Remove the old PDF (trashcan icon) and commit the changes.
-3. Upload a new file and commit the changes.
+3. Upload a new file and commit the changes, the site will auto-update.
 
 ### Changing Data in the tables:
 1. Navigate to *public/data.js*.
