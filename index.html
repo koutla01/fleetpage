@@ -9,9 +9,12 @@
         function load(){
             var tableDiv = document.getElementById("table-holder");
             Object.entries(data).forEach(([key, value]) => {
+                var art = document.createElement('article');
                 var heading = document.createElement('h3')
                 heading.appendChild(document.createTextNode(key))
+                art.appendChild(heading);
                 var tbl = document.createElement('table');
+                art.id = key
                 tbl.classList.add('table', 'table-striped', 'table-hover');
                 var thd = document.createElement('thead');
                 var tr = document.createElement('tr');
@@ -43,8 +46,9 @@
                 });
                 tbl.appendChild(thd);
                 tbl.appendChild(tbod);
-                tableDiv.appendChild(heading)
-                tableDiv.appendChild(tbl);
+                // /tableDiv.appendChild(heading)
+                art.appendChild(tbl);
+                tableDiv.appendChild(art);
                 tableDiv.appendChild(document.createElement('br'))
             });
             };
@@ -81,19 +85,33 @@
             padding: 15px;
             border-radius: 4px;
         }
+        .nav-link {
+            color: black;
+        }
         </style>
     </head>
     <body onload="load()">
         <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd">
-            <a class="ml-auto " href="#"">
-                <img src="public/logo.png" width="" height="" alt="">
-              </a>
-              <a class="btn btn-outline-success ml-auto" href="mailto:koutland@championchev.com">Contact Fleet Department</a>
+            <a href="https://www.championchevroletreno.com/">
+                <img src="public/logo.png" width="135px" height="45px" alt="Champion Chevrolet Logo">
+            </a>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <a class="nav-link" href="#Pickups">Pickups <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#Passenger Vans">Vans <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#Police Vehicles">Police <span class="sr-only">(current)</span></a>
+            </div>
+            <a class="btn btn-outline-success ml-auto" href="mailto:koutland@championchev.com">Contact Fleet Department</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
           </nav>
           <button class="btn btn-primary" onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+          <br />
           <div class="container" id="table-holder"></div>
           <div class="container" style="text-align: center;">
           <script type="text/javascript" src="https://freecountercode.com/service/CdLtSBdOF0aGernx4o01"></script>
+          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
         </div>
         <br />
     </body>
