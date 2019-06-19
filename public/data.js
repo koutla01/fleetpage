@@ -437,113 +437,112 @@ data = {
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
-	"Cargo Vans": [
-	{
+	"Cargo Vans": [{
 		"Item #": "4.5",
 		"Type": "CARGO VAN",
 		"Towing": "1/2 Ton",
 		"Final Order Date": "3/21/2019",
 		"Pdf": "chevy_4-5.pdf"
-	},
-	{
-		"Item #": "4.6",
-		"Type": "CARGO VAN",
-		"Towing": "3/4 Ton",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_4-6.pdf"
-	},
-	{
-		"Item #": "4.7",
-		"Type": "CARGO VAN",
-		"Towing": "1 Ton",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_4-7.pdf"
-	}
- ],
+    	},
+    	{
+    		"Item #": "4.6",
+    		"Type": "CARGO VAN",
+    		"Towing": "3/4 Ton",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_4-6.pdf"
+    	},
+    	{
+    		"Item #": "4.7",
+    		"Type": "CARGO VAN",
+    		"Towing": "1 Ton",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_4-7.pdf"
+    	}
+    ],
 	"Sport Utility Vehicles": [{
-		"Item #": "5.1",
-		"Type": "SPORT UTILITY VEHICLE",
-		"Drivetrain": "4x4",
-		"Towing": "",
-		"Doors": "4",
-		"Passengers": "4-5",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_5-1.pdf"
-	},
-	{
-		"Item #": "5.2",
-		"Type": "SPORT UTILITY VEHICLE",
-		"Drivetrain": "4x4",
-		"Towing": "",
-		"Doors": "4",
-		"Passengers": "7-8",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_5-2.pdf"
-	},
-	{
-		"Item #": "5.3",
-		"Type": "SPORT UTILITY VEHICLE",
-		"Drivetrain": "4x4",
-		"Towing": "1/2 Ton",
-		"Doors": "6",
-		"Passengers": "5-6",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_5-3.pdf"
-	},
-	{
-		"Item #": "5.5",
-		"Type": "SPORT UTILITY VEHICLE",
-		"Drivetrain": "4x4",
-		"Towing": "1/2 Ton",
-		"Doors": "6",
-		"Passengers": "8-9",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_5-5.pdf"
-	},
-	{
-		"Item #": "5.6",
-		"Type": "SPORT UTILITY VEHICLE",
-		"Drivetrain": "4x4",
-		"Towing": "1 Ton",
-		"Doors": "6",
-		"Passengers": "8-9",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_5-6.pdf"
-	}
- ],
+    		"Item #": "5.1",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "4x4",
+    		"Towing": "",
+    		"Doors": "4",
+    		"Passengers": "4-5",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_5-1.pdf"
+    	},
+    	{
+    		"Item #": "5.2",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "4x4",
+    		"Towing": "",
+    		"Doors": "4",
+    		"Passengers": "7-8",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_5-2.pdf"
+    	},
+    	{
+    		"Item #": "5.3",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "4x4",
+    		"Towing": "1/2 Ton",
+    		"Doors": "6",
+    		"Passengers": "5-6",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_5-3.pdf"
+    	},
+    	{
+    		"Item #": "5.5",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "4x4",
+    		"Towing": "1/2 Ton",
+    		"Doors": "6",
+    		"Passengers": "8-9",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_5-5.pdf"
+    	},
+    	{
+    		"Item #": "5.6",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "4x4",
+    		"Towing": "1 Ton",
+    		"Doors": "6",
+    		"Passengers": "8-9",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "chevy_5-6.pdf"
+    	}
+    ],
  	"Police Vehicles": [{
-		"Item #": "1.2",
-		"Type": "SEDAN",
-		"Drivetrain": "4WD",
-		"More": "Special Service (1 2018s in stock/2 2019's on order)",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "police_chevy_1-2.pdf"
-	},
-	{
-		"Item #": "1.2A",
-		"Type": "SUV",
-		"Drivetrain": "4WD",
-		"More": "PPV",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "police_chevy_1-2A.pdf"
-	},
-	{
-		"Item #": "1.2B",
-		"Type": "SUV",
-		"Drivetrain": "2WD",
-		"More": "PPV",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "police_chevy_1-2B.pdf"
-	},
-	{
-		"Item #": "1.3",
-		"Type": "PICKUP",
-		"Drivetrain": "",
-		"More": "",
-		"Final Order Date": "4/4/2019",
-		"Pdf": "police_chevy_1-3.pdf"
-	},
-  ],
+    		"Item #": "1.2",
+    		"Type": "SEDAN",
+    		"Drivetrain": "4WD",
+    		"More": "Special Service (1 2018s in stock/2 2019's on order)",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "police_chevy_1-2.pdf"
+    	},
+    	{
+    		"Item #": "1.2A",
+    		"Type": "SUV",
+    		"Drivetrain": "4WD",
+    		"More": "PPV",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "police_chevy_1-2A.pdf"
+    	},
+    	{
+    		"Item #": "1.2B",
+    		"Type": "SUV",
+    		"Drivetrain": "2WD",
+    		"More": "PPV",
+    		"Final Order Date": "3/21/2019",
+    		"Pdf": "police_chevy_1-2B.pdf"
+    	},
+    	{
+    		"Item #": "1.3",
+    		"Type": "PICKUP",
+    		"Drivetrain": "",
+    		"More": "",
+    		"Final Order Date": "4/4/2019",
+    		"Pdf": "police_chevy_1-3.pdf"
+    	},
+    ],
 	"Police Packages": [{
 			"Distributor":"Lehr",
 			"Pdf": "police_chevy_lehr.pdf"
