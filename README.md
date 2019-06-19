@@ -11,7 +11,7 @@
 ### Changing Data in the tables:
 1. Navigate to *public/data.js*.
 2. Change any data, follow the standard data format.
-3. An easy way to do this is to use this: [CodeChef] (https://www.codechef.com/ide).
+3. An easy way to do this is to use this: [CodeChef](https://www.codechef.com/ide).
 4. If you would like to check your formatting use this: [JSON Validator](https://jsonlint.com/).
   1. Copy everything in data.js except "data =" on the first line.
   2. Paste it into the validator.
