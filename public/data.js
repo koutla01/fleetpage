@@ -169,7 +169,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "4/25/2019",
+			"Final Order Date": "7/14/2019",
 			"Pdf": "chevy_2-15.pdf"
 		},
 		{
@@ -178,7 +178,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "4/25/2019",
+			"Final Order Date": "7/14/2019",
 			"Pdf": "chevy_2-16.pdf"
 		},
 		{
@@ -269,7 +269,7 @@ data = {
 			"Towing": "3/4 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 8800lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "7/14/2019",
 			"Pdf": "chevy_3-3.pdf"
 		},
 		{
