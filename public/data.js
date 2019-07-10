@@ -5,7 +5,7 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "6",
-			"Final Order Date": "",
+			"Final Order Date": "5/17/2019",
 			"Pdf": "chevy_1-1.pdf"
 		},
 		{
