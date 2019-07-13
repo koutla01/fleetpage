@@ -88,7 +88,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Short",
-			"Final Order Date": "N/A",
+			"Final Order Date": "Not Available",
 			"Pdf": ""
 		},
 		{
