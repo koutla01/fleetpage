@@ -489,7 +489,7 @@ data = {
     ],
  	"Police Vehicles": [{
     		"Item #": "1.2",
-    		"Type": "SEDAN",
+    		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Special Service (1 2018s in stock/2 2019's on order)",
     		"Final Order Date": "3/21/2019",
@@ -514,8 +514,8 @@ data = {
     	{
     		"Item #": "1.3",
     		"Type": "PICKUP",
-    		"Drivetrain": "",
-    		"More": "",
+    		"Drivetrain": "4WD",
+    		"More": "Special Service",
     		"Final Order Date": "4/4/2019",
     		"Pdf": "police_chevy_1-3.pdf"
     	},
