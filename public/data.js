@@ -30,7 +30,7 @@ data = {
 	"Alternative Fuel Passenger Vehicles": [{
 			"Item #": "1.1",
 			"Type": "SEDAN",
-			"Size": "Full Siza",
+			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "5-6",
 			"Final Order Date": "3/18/2019",
@@ -239,7 +239,7 @@ data = {
 	"Cab and Chassis": [{
 			"Item #": "3.1",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "3/4 Ton SRW",
+			"Model": "3/4 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 8800lb",
 			"Final Order Date": "2/22/2018",
@@ -248,7 +248,7 @@ data = {
 		{
 			"Item #": "3.2",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "3/4 Ton SRW",
+			"Model": "3/4 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 8800lb",
 			"Final Order Date": "2/22/2018",
@@ -257,7 +257,7 @@ data = {
 		{
 			"Item #": "3.3",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "3/4 Ton SRW",
+			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 8800lb",
 			"Final Order Date": "7/14/2019",
@@ -266,7 +266,7 @@ data = {
 		{
 			"Item #": "3.4",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton SRW",
+			"Model": "1 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 11,000lb",
 			"Final Order Date": "2/22/2018",
@@ -275,7 +275,7 @@ data = {
 		{
 			"Item #": "3.5",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton SRW",
+			"Model": "1 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 11,000lb",
 			"Final Order Date": "2/22/2018",
@@ -284,7 +284,7 @@ data = {
 		{
 			"Item #": "3.6",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton SRW",
+			"Model": "1 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 11,000lb",
 			"Final Order Date": "2/22/2018",
@@ -293,7 +293,7 @@ data = {
 		{
 			"Item #": "3.7",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton DRW",
+			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 13,000lb",
 			"Final Order Date": "2/22/2018",
@@ -302,7 +302,7 @@ data = {
 		{
 			"Item #": "3.8",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton DRW",
+			"Model": "1 Ton DRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 11,000lb",
 			"Final Order Date": "2/22/2018",
@@ -311,7 +311,7 @@ data = {
 		{
 			"Item #": "3.9",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "1 Ton DRW",
+			"Model": "1 Ton DRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 13,000lb",
 			"Final Order Date": "2/22/2018",
@@ -320,7 +320,7 @@ data = {
 		{
 			"Item #": "3.10",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 16,500lb",
 			"Final Order Date": "2/22/2018",
@@ -329,7 +329,7 @@ data = {
 		{
 			"Item #": "3.10A",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 17,500lb",
 			"Final Order Date": "2/22/2018",
@@ -338,7 +338,7 @@ data = {
 		{
 			"Item #": "3.10B",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Regular",
 			"GVW": "Approx. 19,500lb",
 			"Final Order Date": "2/22/2018",
@@ -347,7 +347,7 @@ data = {
 		{
 			"Item #": "3.10C",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 21,500lb",
 			"Final Order Date": "2/22/2018",
@@ -356,7 +356,7 @@ data = {
 		{
 			"Item #": "3.11",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 16,500lb",
 			"Final Order Date": "2/22/2018",
@@ -365,7 +365,7 @@ data = {
 		{
 			"Item #": "3.11A",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 17,500lb",
 			"Final Order Date": "2/22/2018",
@@ -374,7 +374,7 @@ data = {
 		{
 			"Item #": "3.11B",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 19,500lb",
 			"Final Order Date": "2/22/2018",
@@ -383,7 +383,7 @@ data = {
 		{
 			"Item #": "3.11C",
 			"Type": "CAB AND CHASSIS",
-			"Towing": "Greater than 1 Ton",
+			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 21,500lb",
 			"Final Order Date": "2/22/2018",
