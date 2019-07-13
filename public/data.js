@@ -431,21 +431,21 @@ data = {
 	"Cargo Vans": [{
 		"Item #": "4.5",
 		"Type": "CARGO VAN",
-		"Towing": "1/2 Ton",
+		"Model": "1/2 Ton",
 		"Final Order Date": "3/21/2019",
 		"Pdf": "chevy_4-5.pdf"
     	},
     	{
     		"Item #": "4.6",
     		"Type": "CARGO VAN",
-    		"Towing": "3/4 Ton",
+    		"Model": "3/4 Ton",
     		"Final Order Date": "3/21/2019",
     		"Pdf": "chevy_4-6.pdf"
     	},
     	{
     		"Item #": "4.7",
     		"Type": "CARGO VAN",
-    		"Towing": "1 Ton",
+    		"Model": "1 Ton",
     		"Final Order Date": "3/21/2019",
     		"Pdf": "chevy_4-7.pdf"
     	}
