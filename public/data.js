@@ -28,16 +28,16 @@ data = {
 		}
 	],
 	"Alternative Fuel Passenger Vehicles": [{
-			"Item #": "1.2",
+			"Item #": "1.1",
 			"Type": "SEDAN",
-			"Size": "Intermediate",
+			"Size": "Full Siza",
 			"Doors": "4",
 			"Passengers": "5-6",
 			"Final Order Date": "3/18/2019",
 			"Pdf": "alt_chevy_1-2.pdf"
 		},
 		{
-			"Item #": "1.2A",
+			"Item #": "1.2",
 			"Type": "SEDAN",
 			"Size": "Intermediate",
 			"Doors": "4",
