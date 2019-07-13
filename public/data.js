@@ -453,7 +453,7 @@ data = {
 	"Sport Utility Vehicles": [{
     		"Item #": "5.1",
     		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
+    		"Drivetrain": "AWD",
     		"Towing": "",
     		"Doors": "4",
     		"Passengers": "4-5",
@@ -463,11 +463,11 @@ data = {
     	{
     		"Item #": "5.2",
     		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
+    		"Drivetrain": "AWD",
     		"Towing": "",
     		"Doors": "4",
     		"Passengers": "7-8",
-    		"Final Order Date": "3/21/2019",
+    		"Final Order Date": "",
     		"Pdf": "chevy_5-2.pdf"
     	},
     	{
