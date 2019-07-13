@@ -454,7 +454,6 @@ data = {
     		"Item #": "5.1",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "AWD",
-    		"Towing": "",
     		"Doors": "4",
     		"Passengers": "4-5",
     		"Final Order Date": "",
@@ -464,7 +463,6 @@ data = {
     		"Item #": "5.2",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "AWD",
-    		"Towing": "",
     		"Doors": "4",
     		"Passengers": "7-8",
     		"Final Order Date": "",
@@ -474,8 +472,7 @@ data = {
     		"Item #": "5.3",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "4x4",
-    		"Towing": "1/2 Ton",
-    		"Doors": "6",
+    		"Doors": "4",
     		"Passengers": "5-6",
     		"Final Order Date": "3/21/2019",
     		"Pdf": "chevy_5-3.pdf"
@@ -484,22 +481,11 @@ data = {
     		"Item #": "5.5",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "4x4",
-    		"Towing": "1/2 Ton",
-    		"Doors": "6",
+    		"Doors": "4",
     		"Passengers": "8-9",
     		"Final Order Date": "3/21/2019",
     		"Pdf": "chevy_5-5.pdf"
     	},
-    	{
-    		"Item #": "5.6",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
-    		"Towing": "1 Ton",
-    		"Doors": "6",
-    		"Passengers": "8-9",
-    		"Final Order Date": "3/21/2019",
-    		"Pdf": "chevy_5-6.pdf"
-    	}
     ],
  	"Police Vehicles": [{
     		"Item #": "1.2",
