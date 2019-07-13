@@ -406,15 +406,15 @@ data = {
 	"Passenger Vans": [{
 			"Item #": "4.1",
 			"Type": "PASSENGER VAN",
-			"Size/Towing": "Mini",
-			"Passengers": "8",
+			"Model": "Crossover",
+			"Passengers": "7-8",
 			"Final Order Date": "",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
 			"Item #": "4.2",
 			"Type": "PASSENGER VAN",
-			"Size/Towing": "",
+			"Model": "3/4 Ton",
 			"Passengers": "12",
 			"Final Order Date": "3/21/2019",
 			"Pdf": "chevy_4-2.pdf"
