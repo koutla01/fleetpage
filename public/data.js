@@ -88,8 +88,8 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Short",
-			"Final Order Date": "4/25/2019",
-			"Pdf": "chevy_2-5.pdf"
+			"Final Order Date": "N/A",
+			"Pdf": ""
 		},
 		{
 			"Item #": "2.6",
