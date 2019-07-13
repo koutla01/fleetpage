@@ -5,7 +5,6 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "6",
-			"Final Order Date": "5/17/2019",
 			"Pdf": "chevy_1-1.pdf"
 		},
 		{
@@ -20,9 +19,9 @@ data = {
 		{
 			"Item #": "1.3",
 			"Type": "SEDAN",
-			"Size": "Full Size",
+			"Size": "Compact",
 			"Doors": "4",
-			"Passengers": "6",
+			"Passengers": "4-5",
 			"Final Order Date": "11/29/2018",
 			"Pdf": "chevy_1-3.pdf"
 		}
