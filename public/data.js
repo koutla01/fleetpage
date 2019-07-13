@@ -124,17 +124,8 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "4/25/2019",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-9.pdf"
-		},
-		{
-			"Item #": "2.9A",
-			"Type": "TRUCK",
-			"Size": "1/2 Ton",
-			"Cab": "Extended",
-			"Bed": "Short",
-			"Final Order Date": "4/25/2019",
-			"Pdf": "chevy_2-9A.pdf"
 		},
 		{
 			"Item #": "2.12",
