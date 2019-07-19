@@ -424,7 +424,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "3/21/2019",
+			"Final Order Date": "",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
