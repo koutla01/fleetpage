@@ -514,19 +514,11 @@ data = {
     ],
 	"Police Packages": [{
 			"Distributor":"Lehr",
-			"Pdf": "police_chevy_lehr.pdf"
-		},
-		{
-			"Distributor":"McIntosh Communications 2018 Patrol Tahoe",
-			"Pdf": "police_chevy_mc2018.pdf"
+			"Pdf": ""
 		},
 		{
 			"Distributor":"McIntosh Communications 2019 Patrol Tahoe",
-			"Pdf": "police_chevy_mc2019.pdf"
-		},
-		{
-			"Distributor":"Lehr 2018 Tahoe Patrol",
-			"Pdf": "police_chevy_lehr2018.pdf"
+			"Pdf": ""
 		}
 	],
 	"Sierra Electronics Police Packages": [{
