@@ -392,7 +392,7 @@ data = {
 	],
 	"Upfit Information": [{
 			"Distributor": "Harbor Truck and Van",
-			"Pdf": "harbor_truck_and_van.pdf"
+			"Pdf": ""
 		}
 	],
 	"Passenger Vans": [{
