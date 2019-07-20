@@ -432,8 +432,8 @@ data = {
 		"Item #": "4.5",
 		"Type": "CARGO VAN",
 		"Model": "1/2 Ton",
-		"Final Order Date": "3/21/2019",
-		"Pdf": "chevy_4-5.pdf"
+		"Final Order Date": "Not Available",
+		"Pdf": ""
     	},
     	{
     		"Item #": "4.6",
