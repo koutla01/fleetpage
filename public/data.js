@@ -391,16 +391,8 @@ data = {
 		}
 	],
 	"Upfit Information": [{
-			"Distributor": "Sierra Truck Body and Equipment",
-			"Pdf": "sierra_truck_body_and_equipment.pdf"
-		},
-		{
 			"Distributor": "Harbor Truck and Van",
 			"Pdf": "harbor_truck_and_van.pdf"
-		},
-		{
-			"Distributor": "Diamond Truck Body Mfg - Animal Control Body Pricing 17422",
-			"Pdf": "diamond_truck_body_animal_control_body.pdf"
 		}
 	],
 	"Passenger Vans": [{
