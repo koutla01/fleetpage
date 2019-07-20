@@ -446,7 +446,7 @@ data = {
     		"Item #": "4.7",
     		"Type": "CARGO VAN",
     		"Model": "1 Ton",
-    		"Final Order Date": "3/21/2019",
+    		"Final Order Date": "",
     		"Pdf": "chevy_4-7.pdf"
     	}
     ],
