@@ -517,74 +517,74 @@ data = {
 			"Pdf": ""
 		},
 		{
-			"Distributor":"McIntosh Communications 2019 Patrol Tahoe",
+			"Distributor":"McIntosh Communications",
 			"Pdf": ""
 		}
 	],
 	"Sierra Electronics Police Packages": [{
-			"Vehicle": "2018 GMC Acadia",
-			"Pdf": "police_chevy_JHCO3555.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2018 Chevy Malibu",
-			"Pdf": "police_chevy_JHCO3564.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2018 Chevrolet Tahoe Patrol Supervisor",
-			"Pdf": "police_chevy_JHCO3550.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2018 Chevrolet Silverado Patrol Supervisor",
-			"Pdf": "police_chevy_JHCO3554.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 RPD Silverado Patrol Supervisor",
-			"Pdf": "police_chevy_JHCQ3733-01.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 RPD Tahoe Patrol",
-			"Pdf": "police_chevy_JHCQ3737.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 RPD Silverado 2500 Traffic",
-			"Pdf": "police_chevy_JHC03757.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Silverado",
-			"Pdf": "police_chevy_JHCO3780.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 	],
 	"West Coast Lights & Sirens, Inc. Police Packages": [{
-			"Vehicle": "2019 Chevrolet Silverado 1500 Detective",
-			"Pdf": "police_chevy_8013.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Silverado 2500 Swat",
-			"Pdf": "police_chevy_7843.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Tahoe Chief of Police",
-			"Pdf": "police_chevy_8021.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Tahoe Lieutenant Unmarked",
-			"Pdf": "police_chevy_7747.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Tahoe Patrol Vehicle",
-			"Pdf": "police_chevy_7746.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Tahoe Sergeant SUV",
-			"Pdf": "police_chevy_7749.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Tahoe Swat",
-			"Pdf": "police_chevy_7844.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 		{
-			"Vehicle": "2019 Chevrolet Traverse Detective",
-			"Pdf": "police_chevy_7920.pdf"
+			"Vehicle": "",
+			"Pdf": ""
 		},
 	]
 }
