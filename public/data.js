@@ -555,35 +555,35 @@ data = {
 		},
 	],
 	"West Coast Lights & Sirens, Inc. Police Packages": [{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TAHOE SERGEANT 9038",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TAHOE CHIEF OF POLICE 9039",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TAHOE PATROL 9040",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TAHOE LIEUTENANT 9041",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY SILVERADO 1500 DETECTIVE BUILD 9042",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TRAVERSE DETECTIVE 9043",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY SILVERADO 2500 SWAT 9044",
 			"Pdf": ""
 		},
 		{
-			"Vehicle": "",
+			"Vehicle": "CHEVY TAHOE SWAT 9045",
 			"Pdf": ""
 		},
 	]
