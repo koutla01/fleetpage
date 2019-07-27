@@ -392,7 +392,7 @@ data = {
 	],
 	"Upfit Information": [{
 			"Distributor": "Harbor Truck and Van",
-			"Pdf": ""
+			"Pdf": "Harbor Nevada State Pricing 2020.pdf"
 		}
 	],
 	"Passenger Vans": [{
