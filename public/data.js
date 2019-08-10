@@ -250,8 +250,8 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
 			"Cab": "Crew",
-			"GVW": "Approx. 8800lb",
-			"Final Order Date": "2/22/2018",
+			"GVW": "Approx. 10,300lb",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-2.pdf"
 		},
 		{
@@ -259,7 +259,7 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
-			"GVW": "Approx. 10200lb",
+			"GVW": "Approx. 10,200lb",
 			"Final Order Date": "",
 			"Pdf": "chevy_3-3.pdf"
 		},
@@ -268,8 +268,8 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "1 Ton SRW",
 			"Cab": "Standard",
-			"GVW": "Approx. 11,000lb",
-			"Final Order Date": "2/22/2018",
+			"GVW": "Approx. 10,750lb",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-4.pdf"
 		},
 		{
@@ -277,8 +277,8 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "1 Ton SRW",
 			"Cab": "Crew",
-			"GVW": "Approx. 11,000lb",
-			"Final Order Date": "2/22/2018",
+			"GVW": "Approx. 11,150lb",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-5.pdf"
 		},
 		{
