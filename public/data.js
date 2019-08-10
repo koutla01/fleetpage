@@ -304,8 +304,8 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "1 Ton DRW",
 			"Cab": "Crew",
-			"GVW": "Approx. 11,000lb",
-			"Final Order Date": "2/22/2018",
+			"GVW": "Approx. 14,000lb",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-8.pdf"
 		},
 		{
