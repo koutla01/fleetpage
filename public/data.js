@@ -483,7 +483,7 @@ data = {
     		"Item #": "1.2",
     		"Type": "SUV",
     		"Drivetrain": "4WD",
-    		"More": "Special Service (1 2018s in stock/2 2019's on order)",
+    		"More": "Special Service (1 2018 in stock/2 2019's on order)",
     		"Final Order Date": "",
     		"Pdf": "police_chevy_1-2.pdf"
     	},
