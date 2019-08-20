@@ -339,7 +339,7 @@ data = {
 			"Item #": "3.10B",
 			"Type": "CAB AND CHASSIS",
 			"Model": "Greater than 1 Ton",
-			"Cab": "Regular",
+			"Cab": "Standard",
 			"GVW": "Approx. 19,500lb",
 			"Final Order Date": "2/22/2018",
 			"Pdf": "chevy_3-10B.pdf"
