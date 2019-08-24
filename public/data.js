@@ -332,7 +332,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-10A.pdf"
 		},
 		{
@@ -341,7 +341,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-10B.pdf"
 		},
 		{
@@ -350,8 +350,17 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-10C.pdf"
+		},
+		{
+			"Item #": "3.10D",
+			"Type": "CAB AND CHASSIS",
+			"Model": "Greater than 1 Ton",
+			"Cab": "Standard",
+			"GVW": "Approx. 23,500lb",
+			"Final Order Date": "",
+			"Pdf": "chevy_3-10D.pdf"
 		},
 		{
 			"Item #": "3.11",
@@ -359,7 +368,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 16,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11.pdf"
 		},
 		{
@@ -368,7 +377,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11A.pdf"
 		},
 		{
@@ -377,7 +386,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11B.pdf"
 		},
 		{
@@ -386,8 +395,17 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "2/22/2018",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11C.pdf"
+		},
+		{
+			"Item #": "3.11D",
+			"Type": "CAB AND CHASSIS",
+			"Model": "Greater than 1 Ton",
+			"Cab": "Crew",
+			"GVW": "Approx. 23,500lb",
+			"Final Order Date": "",
+			"Pdf": "chevy_3-11D.pdf"
 		}
 	],
 	"Upfit Information": [{
