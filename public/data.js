@@ -411,6 +411,18 @@ data = {
 	"Upfit Information": [{
 			"Distributor": "Harbor Truck and Van",
 			"Pdf": "Harbor Nevada State Pricing 2020.pdf"
+		},
+		{
+			"Distributor": "Sierra Truck Body & Equipment 1819",
+			"Pdf": "E3-1819.PDF"
+		},
+		{
+			"Distributor": "Sierra Truck Body & Equipment 1820",
+			"Pdf": "E3-1820.PDF"
+		},
+		{
+			"Distributor": "Sierra Truck Body & Equipment 1821",
+			"Pdf": "E3-1821.PDF"
 		}
 	],
 	"Passenger Vans": [{
