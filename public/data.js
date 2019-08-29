@@ -414,15 +414,15 @@ data = {
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment 1819",
-			"Pdf": "E3-1819.PDF"
+			"Pdf": "E3-1819.pdf"
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment 1820",
-			"Pdf": "E3-1820.PDF"
+			"Pdf": "E3-1820.pdf"
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment 1821",
-			"Pdf": "E3-1821.PDF"
+			"Pdf": "E3-1821.pdf"
 		}
 	],
 	"Passenger Vans": [{
