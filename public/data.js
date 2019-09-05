@@ -544,7 +544,7 @@ data = {
     ],
 	"Police Packages": [{
 			"Distributor":"Lehr",
-			"Pdf": ""
+			"Pdf": "LEHR.pdf"
 		},
 		{
 			"Distributor":"McIntosh Communications",
