@@ -37,21 +37,12 @@ data = {
 			"Pdf": "alt_chevy_1-1.pdf"
 		},
 		{
-			"Item #": "1.2",
-			"Type": "SEDAN",
-			"Size": "Intermediate",
-			"Doors": "4",
-			"Passengers": "5-6",
-			"Final Order Date": "11/29/2018",
-			"Pdf": "alt_chevy_1-2A.pdf"
-		},
-		{
 			"Item #": "1.3",
 			"Type": "SEDAN",
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "4/25/2019",
+			"Final Order Date": "",
 			"Pdf": "alt_chevy_1-3.pdf"
 			}
 	],
