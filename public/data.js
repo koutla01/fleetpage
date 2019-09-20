@@ -543,8 +543,8 @@ data = {
 		}
 	],
 	"Sierra Electronics Police Packages": [{
-			"Vehicle": "",
-			"Pdf": ""
+			"Vehicle": "2020 RPD MARSHAL SILVERADO",
+			"Pdf": "2020 RPD MARSHAL SILVERADO JHCQ3856.pdf"
 		},
 		{
 			"Vehicle": "",
