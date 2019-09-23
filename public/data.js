@@ -504,8 +504,8 @@ data = {
     		"Item #": "1.2",
     		"Type": "SUV",
     		"Drivetrain": "4WD",
-    		"More": "Special Service (1 2018 in stock/2 2019's on order)",
-    		"Final Order Date": "",
+    		"More": "Special Service",
+    		"Final Order Date": "09/30/2019",
     		"Pdf": "police_chevy_1-2.pdf"
     	},
     	{
@@ -513,7 +513,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "PPV",
-    		"Final Order Date": "",
+    		"Final Order Date": "09/30/2019",
     		"Pdf": "police_chevy_1-2A.pdf"
     	},
     	{
@@ -521,7 +521,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "2WD",
     		"More": "PPV",
-    		"Final Order Date": "",
+    		"Final Order Date": "09/30/2019",
     		"Pdf": "police_chevy_1-2B.pdf"
     	},
     	{
