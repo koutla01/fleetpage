@@ -547,8 +547,8 @@ data = {
 			"Pdf": "2020 RPD MARSHAL SILVERADO JHCQ3856.pdf"
 		},
 		{
-			"Vehicle": "",
-			"Pdf": ""
+			"Vehicle": "2020 RPD TAHOE PATROL SUPERVISOR",
+			"Pdf": "2020 RPD TAHOE PATROL SUPERVISOR JHCQ3857.pdf"
 		},
 		{
 			"Vehicle": "",
