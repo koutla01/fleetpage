@@ -404,8 +404,8 @@ data = {
 			"Pdf": "Harbor Nevada State Pricing 2020.pdf"
 		},
 		{
-			"Distributor": "Sierra Truck Body & Equipment 1819",
-			"Pdf": "E3-1819.pdf"
+			"Distributor": "Harbor Truck and Van SQ27894",
+			"Pdf": "Harbor SQ27894.pdf"
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment 1820",
