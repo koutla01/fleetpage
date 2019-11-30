@@ -52,7 +52,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "12/19/19",
+			"Final Order Date": "12/19/2019",
 			"Pdf": "chevy_2-2.pdf"
 		},
 		{
@@ -61,7 +61,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "12/19/19",
+			"Final Order Date": "12/19/2019",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
@@ -70,7 +70,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "12/19/19",
+			"Final Order Date": "12/19/2019",
 			"Pdf": "chevy_2-4.pdf"
 		},
 		{
@@ -487,7 +487,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "5-6",
-    		"Final Order Date": "12/19/19",
+    		"Final Order Date": "12/19/2019",
     		"Pdf": "chevy_5-3.pdf"
     	},
     	{
@@ -496,7 +496,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "8-9",
-    		"Final Order Date": "12/19/19",
+    		"Final Order Date": "12/19/2019",
     		"Pdf": "chevy_5-5.pdf"
     	},
     ],
