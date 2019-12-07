@@ -551,8 +551,8 @@ data = {
 			"Pdf": "2020 RPD TAHOE PATROL SUPERVISOR JHCQ3857.pdf"
 		},
 		{
-			"Vehicle": "",
-			"Pdf": ""
+			"Vehicle": "2020 SILVERADO 2500 TRAFFIC ENFORCEMENT ",
+			"Pdf": "2020 RPD SILVERADO SO14103.pdf"
 		},
 		{
 			"Vehicle": "",
