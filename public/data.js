@@ -414,7 +414,11 @@ data = {
 		{
 			"Distributor": "Sierra Truck Body & Equipment 1821",
 			"Pdf": "E3-1821.pdf"
-		}
+		},
+		{
+			"Distributor": "Delivery Concepts 824",
+			"Pdf": "Delivery Concepts 824.pdf"
+		}	      
 	],
 	"Passenger Vans": [{
 			"Item #": "4.1",
