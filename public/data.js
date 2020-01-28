@@ -425,7 +425,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
 			"Passengers": "7-8",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
@@ -433,7 +433,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "3/4 Ton",
 			"Passengers": "12",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_4-2.pdf"
 		},
 		{
@@ -441,7 +441,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
@@ -456,14 +456,14 @@ data = {
     		"Item #": "4.6",
     		"Type": "CARGO VAN",
     		"Model": "3/4 Ton",
-    		"Final Order Date": "",
+    		"Final Order Date": "03/05/2020",
     		"Pdf": "chevy_4-6.pdf"
     	},
     	{
     		"Item #": "4.7",
     		"Type": "CARGO VAN",
     		"Model": "1 Ton",
-    		"Final Order Date": "",
+    		"Final Order Date": "03/05/2020",
     		"Pdf": "chevy_4-7.pdf"
     	}
     ],
@@ -473,7 +473,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "04/23/2020",
     		"Pdf": "chevy_5-1.pdf"
     	},
     	{
@@ -482,7 +482,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "7-8",
-    		"Final Order Date": "",
+    		"Final Order Date": "06/25/20",
     		"Pdf": "chevy_5-2.pdf"
     	},
     	{
