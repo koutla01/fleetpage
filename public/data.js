@@ -5,7 +5,7 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "8/22/2019",
+			"Final Order Date": "08/22/2019",
 			"Pdf": "chevy_1-1.pdf"
 		},
 		{
@@ -14,7 +14,7 @@ data = {
 			"Size": "Intermediate",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "",
+			"Final Order Date": "04/23/2020",
 			"Pdf": "chevy_1-2.pdf"
 		},
 		{
@@ -23,7 +23,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_1-3.pdf"
 		}
 	],
@@ -33,7 +33,7 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "8/22/2019",
+			"Final Order Date": "08/22/2019",
 			"Pdf": "alt_chevy_1-1.pdf"
 		},
 		{
@@ -88,7 +88,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/26/2020",
 			"Pdf": "chevy_2-6.pdf"
 		},
 		{
@@ -97,7 +97,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/26/2020",
 			"Pdf": "chevy_2-7.pdf"
 		},
 		{
@@ -106,7 +106,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/26/2020",
 			"Pdf": "chevy_2-8.pdf"
 		},
 		{
@@ -115,7 +115,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/26/2020",
 			"Pdf": "chevy_2-9.pdf"
 		},
 		{
@@ -124,7 +124,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-12.pdf"
 		},
 		{
@@ -133,7 +133,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-13.pdf"
 		},
 		{
@@ -142,7 +142,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-14.pdf"
 		},
 		{
@@ -151,7 +151,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-15.pdf"
 		},
 		{
@@ -160,7 +160,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-16.pdf"
 		},
 		{
@@ -169,7 +169,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-18.pdf"
 		},
 		{
@@ -178,7 +178,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-19.pdf"
 		},
 		{
@@ -187,7 +187,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-20.pdf"
 		},
 		{
@@ -196,7 +196,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-21.pdf"
 		},
 		{
@@ -205,7 +205,7 @@ data = {
 			"Size": "1 Ton DRW",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-22.pdf"
 		},
 		{
@@ -214,7 +214,7 @@ data = {
 			"Size": "1 Ton DRW",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-24.pdf"
 		},
 		{
@@ -223,7 +223,7 @@ data = {
 			"Size": "1 Ton DRW",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_2-26.pdf"
 		}
 	],
@@ -233,7 +233,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 9900lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-1.pdf"
 		},
 		{
@@ -242,7 +242,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 10,300lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-2.pdf"
 		},
 		{
@@ -251,7 +251,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 10,200lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-3.pdf"
 		},
 		{
@@ -260,7 +260,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 10,750lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-4.pdf"
 		},
 		{
@@ -269,7 +269,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 11,150lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-5.pdf"
 		},
 		{
@@ -278,7 +278,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 11,100lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-6.pdf"
 		},
 		{
@@ -287,7 +287,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-7.pdf"
 		},
 		{
@@ -296,7 +296,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-8.pdf"
 		},
 		{
@@ -305,7 +305,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 13,000lb",
-			"Final Order Date": "",
+			"Final Order Date": "03/05/2020",
 			"Pdf": "chevy_3-9.pdf"
 		},
 		{
@@ -314,7 +314,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 16,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-10.pdf"
 		},
 		{
@@ -323,7 +323,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-10A.pdf"
 		},
 		{
@@ -332,7 +332,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-10B.pdf"
 		},
 		{
@@ -341,7 +341,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-10C.pdf"
 		},
 		{
@@ -350,7 +350,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-10D.pdf"
 		},
 		{
@@ -359,7 +359,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 16,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-11.pdf"
 		},
 		{
@@ -368,7 +368,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-11A.pdf"
 		},
 		{
@@ -377,7 +377,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-11B.pdf"
 		},
 		{
@@ -386,7 +386,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-11C.pdf"
 		},
 		{
@@ -395,7 +395,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "06/25/2020",
 			"Pdf": "chevy_3-11D.pdf"
 		}
 	],
