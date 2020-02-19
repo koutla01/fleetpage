@@ -542,9 +542,13 @@ data = {
     	},
     ],
 	"Police Packages": [{
-			"Distributor":"Lehr",
+			"Distributor":"Lehr 19498",
 			"Pdf": "LEHR.pdf"
 		},
+		{
+			"Distributor":"Lehr 22342",
+			"Pdf": "LEHR 22342.pdf"
+		},	    
 		{
 			"Distributor":"McIntosh Communications",
 			"Pdf": ""
