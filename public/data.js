@@ -575,8 +575,8 @@ data = {
 			"Pdf": "2020 RPD SILVERADO 2500 TRAFFIC ENFORCEMENT order SO14103.pdf"
 		},
 		{
-			"Vehicle": "",
-			"Pdf": ""
+			"Vehicle": "2020 PATROL TRUCK 1500",
+			"Pdf": "SIERRA ELECTRONICS SQ10105.pdf"
 		},
 		{
 			"Vehicle": "",
