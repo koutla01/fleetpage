@@ -550,8 +550,8 @@ data = {
 			"Pdf": "LEHR 22342.pdf"
 		},	    
 		{
-			"Distributor":"McIntosh Communications",
-			"Pdf": ""
+			"Distributor":"Defender Supply 27722",
+			"Pdf": "Defender Supply 27722.pdf"
 		}
 	],
 	"Sierra Electronics Police Packages": [{
