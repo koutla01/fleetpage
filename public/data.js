@@ -412,12 +412,8 @@ data = {
 			"Pdf": "KNAPHEIDE.pdf"
 		},      
 		{
-			"Distributor": "Sierra Truck Body & Equipment 1820",
-			"Pdf": "E3-1820.pdf"
-		},
-		{
-			"Distributor": "Sierra Truck Body & Equipment 1821",
-			"Pdf": "E3-1821.pdf"
+			"Distributor": "Sierra Truck Body & Equipment 2383",
+			"Pdf": "SIERRA 2383-QUOTE.pdf"
 		},
 		{
 			"Distributor": "Delivery Concepts 824",
