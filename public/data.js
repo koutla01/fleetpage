@@ -269,7 +269,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 11,150lb",
-			"Final Order Date": "03/05/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-5.pdf"
 		},
 		{
