@@ -178,7 +178,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "03/05/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-19.pdf"
 		},
 		{
@@ -485,7 +485,7 @@ data = {
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "AWD",
     		"Doors": "4",
-    		"Passengers": "5-6",
+    		"Passengers": "4-5",
     		"Final Order Date": "",
     		"Pdf": "chevy_5-1A.pdf"
     	},
