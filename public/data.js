@@ -481,6 +481,15 @@ data = {
     		"Pdf": "chevy_5-1.pdf"
     	},
     	{
+    		"Item #": "5.1A",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "AWD",
+    		"Doors": "4",
+    		"Passengers": "5-6",
+    		"Final Order Date": "",
+    		"Pdf": "chevy_5-1A.pdf"
+    	},
+	{
     		"Item #": "5.2",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "AWD",
