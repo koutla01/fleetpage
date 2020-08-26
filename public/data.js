@@ -555,13 +555,9 @@ data = {
     	},
     ],
 	"Police Packages": [{
-			"Distributor":"Lehr 19498",
-			"Pdf": "LEHR.pdf"
+			"Distributor":"LEHR 25566",
+			"Pdf": "LEHR 25566.pdf"
 		},
-		{
-			"Distributor":"Lehr 22342",
-			"Pdf": "LEHR 22342.pdf"
-		},	    
 		{
 			"Distributor":"Defender Supply 27722",
 			"Pdf": "Defender Supply 27722.pdf"
