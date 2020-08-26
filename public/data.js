@@ -416,9 +416,13 @@ data = {
 			"Pdf": "SIERRA 2383-QUOTE.pdf"
 		},
 		{
-			"Distributor": "Delivery Concepts 824",
-			"Pdf": "Delivery Concepts 824.pdf"
+			"Distributor": "Delivery Concepts 503",
+			"Pdf": "DELIVERY CONCEPTS 503.pdf"
 		},
+		{
+			"Distributor": "Delivery Concepts 504",
+			"Pdf": "DELIVERY CONCEPTS 504.pdf"
+		},	      
 		{
 			"Distributor": "Diamond Truck Body 19142",
 			"Pdf": "DIAMOND 19142.pdf"
