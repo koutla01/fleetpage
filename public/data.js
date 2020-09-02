@@ -433,7 +433,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
 			"Passengers": "7-8",
-			"Final Order Date": "06/25/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
@@ -441,7 +441,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "3/4 Ton",
 			"Passengers": "12",
-			"Final Order Date": "03/05/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_4-2.pdf"
 		},
 		{
@@ -449,7 +449,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "03/05/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
