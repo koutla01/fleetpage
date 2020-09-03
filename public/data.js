@@ -550,7 +550,7 @@ data = {
     		"Type": "PICKUP",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "03/26/2020",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-3.pdf"
     	},
     ],
