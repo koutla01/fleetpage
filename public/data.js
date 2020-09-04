@@ -287,7 +287,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "03/05/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-7.pdf"
 		},
 		{
@@ -464,7 +464,7 @@ data = {
     		"Item #": "4.6",
     		"Type": "CARGO VAN",
     		"Model": "3/4 Ton",
-    		"Final Order Date": "03/05/2020",
+    		"Final Order Date": "",
     		"Pdf": "chevy_4-6.pdf"
     	},
     	{
