@@ -422,7 +422,11 @@ data = {
 		{
 			"Distributor": "Delivery Concepts 504",
 			"Pdf": "DELIVERY CONCEPTS 504.pdf"
-		},	      
+		},
+		{
+			"Distributor": "Delivery Concepts 527",
+			"Pdf": "DELIVERY CONCEPTS 527.pdf"
+		},
 		{
 			"Distributor": "Diamond Truck Body 19142",
 			"Pdf": "DIAMOND 19142.pdf"
