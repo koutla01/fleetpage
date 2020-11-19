@@ -52,7 +52,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "12/17/2020",
 			"Pdf": "chevy_2-2.pdf"
 		},
 		{
@@ -61,7 +61,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "12/17/2020",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
@@ -70,7 +70,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "12/17/2020",
 			"Pdf": "chevy_2-4.pdf"
 		},
 		{
