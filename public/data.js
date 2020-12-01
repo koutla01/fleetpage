@@ -601,40 +601,28 @@ data = {
 		},
 	],
 	"West Coast Lights & Sirens, Inc. Police Packages": [{
-			"Vehicle": "CHEVY TAHOE SERGEANT 9038",
-			"Pdf": "1 CHEVY TAHOE SERGEANT 9038.pdf"
+			"Vehicle": "CHEVY TAHOE SERGEANT 10680",
+			"Pdf": "CHEVY TAHOE SERGEANT 10680.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE CHIEF OF POLICE 9039",
-			"Pdf": "2 CHEVY TAHOE CHIEF OF POLICE 9039.pdf"
+			"Vehicle": "CHEVY TAHOE BC 10679",
+			"Pdf": "CHEVY TAHOE BC 10679.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE PATROL 9040",
-			"Pdf": "3 CHEVY TAHOE PATROL 9040.pdf"
+			"Vehicle": "CHEVY TAHOE PATROL 10637",
+			"Pdf": "CHEVY TAHOE PATROL 10637.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE LIEUTENANT 9041",
-			"Pdf": "4 CHEVY TAHOE LIEUTENANT 9041.pdf"
+			"Vehicle": "CHEVY TAHOE SLICK TOP 10681",
+			"Pdf": "CHEVY TAHOE SLICK TOP 10681.pdf"
 		},
 		{
-			"Vehicle": "CHEVY SILVERADO 1500 DETECTIVE BUILD 9042",
-			"Pdf": "5 CHEVY SILVERADO 1500 DETECTIVE BUILD 9042.pdf"
+			"Vehicle": "CHEVY SILVERADO SWAT 10668",
+			"Pdf": "CHEVY SILVERADO SWAT 10668.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TRAVERSE DETECTIVE 9043",
-			"Pdf": "6 CHEVY TRAVERSE DETECTIVE 9043.pdf"
+			"Vehicle": "CHEVY TAHOE SWAT 10682",
+			"Pdf": "CHEVY TAHOE SWAT 10682.pdf"
 		},
-		{
-			"Vehicle": "CHEVY SILVERADO 2500 SWAT 9044",
-			"Pdf": "7 CHEVY SILVERADO 2500 SWAT 9044.pdf"
-		},
-		{
-			"Vehicle": "CHEVY TAHOE SWAT 9045",
-			"Pdf": "8 CHEVY TAHOE SWAT 9045.pdf"
-		},
-		{
-			"Vehicle": "CHEVY TAHOE PATROL STRIP 9555",
-			"Pdf": "9555 STRIP PATROL.pdf"
-		},					     
 	]
 }
