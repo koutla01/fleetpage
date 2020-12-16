@@ -621,8 +621,24 @@ data = {
 			"Pdf": "CHEVY SILVERADO SWAT 10668.pdf"
 		},
 		{
+			"Vehicle": "CHEVY SILVERADO CSA 10771",
+			"Pdf": "CHEVY SILVERADO CSA 10771.pdf"
+		},
+		{
+			"Vehicle": "CHEVY SILVERADO 2500 DETECTIVE 10769",
+			"Pdf": "CHEVY SILVERADO 2500 DETECTIVE 10769.pdf"
+		},
+		{
+			"Vehicle": "CHEVY SILVERADO 2500 PATROL 10770",
+			"Pdf": "CHEVY SILVERADO 2500 PATROL 10770.pdf"
+		},
+		{
 			"Vehicle": "CHEVY TAHOE SWAT 10682",
 			"Pdf": "CHEVY TAHOE SWAT 10682.pdf"
 		},
+		{
+			"Vehicle": "CHEVY TRAVERSE 10772",
+			"Pdf": "CHEVY TRAVERSE 10772.pdf"
+		},					     
 	]
 }
