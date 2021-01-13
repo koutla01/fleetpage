@@ -14,7 +14,7 @@ data = {
 			"Size": "Intermediate",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "",
+			"Final Order Date": "01/12/2021",
 			"Pdf": "chevy_1-2.pdf"
 		},
 		{
@@ -485,7 +485,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "01/12/2021",
     		"Pdf": "chevy_5-1.pdf"
     	},
     	{
@@ -494,7 +494,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "01/12/2021",
     		"Pdf": "chevy_5-1A.pdf"
     	},
 	{
