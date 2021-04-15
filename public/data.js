@@ -408,10 +408,6 @@ data = {
 			"Pdf": "Harbor SQ27894.pdf"
 		},
 		{
-			"Distributor": "Knapheide Truck Equipment",
-			"Pdf": "KNAPHEIDE.pdf"
-		},      
-		{
 			"Distributor": "Sierra Truck Body & Equipment 2383",
 			"Pdf": "SIERRA 2383-QUOTE.pdf"
 		},
