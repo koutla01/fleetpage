@@ -535,7 +535,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "01/24/2021",
+    		"Final Order Date": "LIMITED AVAIL PLEASE CALL",
     		"Pdf": "police_chevy_1-2.pdf"
     	},
     	{
