@@ -566,7 +566,25 @@ data = {
 	"Police Packages": [{
 			"Distributor":"Defender Supply 27722",
 			"Pdf": "Defender Supply 27722.pdf"
-		}
+		},
+		{	    
+			"Distributor":"LEHR 29754",
+			"Pdf": "LEHR 29754.pdf"
+		},
+		{
+			"Distributor":"LEHR 29811",
+			"Pdf": "LEHR 29811.pdf"
+		},
+		{
+			"Distributor":"LEHR 30232",
+			"Pdf": "LEHR 30232.pdf"
+		},
+		{
+			"Distributor":"LEHR 30234",
+			"Pdf": "LEHR 30234.pdf"
+		},
+
+			    
 	],
 	"Sierra Electronics Police Packages": [{
 			"Vehicle": "2020 RPD MARSHAL SILVERADO",
