@@ -404,10 +404,6 @@ data = {
 			"Pdf": "2022 Harbor.pdf"
 		},
 		{
-			"Distributor": "Harbor Truck and Van SQ27894",
-			"Pdf": "Harbor SQ27894.pdf"
-		},
-		{
 			"Distributor": "Sierra Truck Body & Equipment 2383",
 			"Pdf": "SIERRA 2383-QUOTE.pdf"
 		},
