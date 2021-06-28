@@ -5,7 +5,7 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "08/22/2019",
+			"Final Order Date": "NO BID",
 			"Pdf": "chevy_1-1.pdf"
 		},
 		{
@@ -23,7 +23,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "06/25/2020",
+			"Final Order Date": "NO BID",
 			"Pdf": "chevy_1-3.pdf"
 		}
 	],
@@ -33,7 +33,7 @@ data = {
 			"Size": "Full Size",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "08/22/2019",
+			"Final Order Date": "NO BID",
 			"Pdf": "alt_chevy_1-1.pdf"
 		},
 		{
