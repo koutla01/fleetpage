@@ -47,8 +47,8 @@ data = {
 		},
 		{
 			"Item #": "1.4",
-			"Type": "SPORT UTILITY VEHICLE",
-			"Drivetrain": "2WD",
+			"Type": "SUV",
+			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
 			"Final Order Date": "",
