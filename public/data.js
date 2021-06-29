@@ -27,7 +27,7 @@ data = {
 			"Pdf": "chevy_1-3.pdf"
 		}
 	],
-	"Alternative Fuel Passenger Vehicles": [{
+	"Alternative Fuel Vehicles": [{
 			"Item #": "1.1",
 			"Type": "SEDAN",
 			"Size": "Full Size",
@@ -44,7 +44,16 @@ data = {
 			"Passengers": "4-5",
 			"Final Order Date": "",
 			"Pdf": "alt_chevy_1-3.pdf"
-			}
+		},
+		{
+			"Item #": "1.4",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "2WD",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "alt_chevy_1-4.pdf"
+			}		      
 	],
 	"Pickups": [{
 			"Item #": "2.2",
