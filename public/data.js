@@ -43,7 +43,7 @@ data = {
 			"Doors": "4",
 			"Passengers": "4-5",
 			"Final Order Date": "",
-			"Pdf": "alt_chevy_1-3.pdf"
+			"Pdf": ""
 		},
 		{
 			"Item #": "1.4",
@@ -52,7 +52,7 @@ data = {
 			"Doors": "4",
 			"Passengers": "4-5",
 			"Final Order Date": "",
-			"Pdf": "alt_chevy_1-4.pdf"
+			"Pdf": ""
 			}		      
 	],
 	"Pickups": [{
