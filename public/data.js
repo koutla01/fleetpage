@@ -242,7 +242,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 9900lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-1.pdf"
 		},
 		{
@@ -251,7 +251,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 10,300lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-2.pdf"
 		},
 		{
@@ -260,7 +260,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 10,200lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-3.pdf"
 		},
 		{
