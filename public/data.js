@@ -278,7 +278,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 11,150lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-5.pdf"
 		},
 		{
@@ -287,7 +287,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 11,100lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-6.pdf"
 		},
 		{
@@ -296,7 +296,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-7.pdf"
 		},
 		{
@@ -305,7 +305,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Crew",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-8.pdf"
 		},
 		{
@@ -314,7 +314,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "12/31/2020",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-9.pdf"
 		},
 		{
