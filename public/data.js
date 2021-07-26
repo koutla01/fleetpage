@@ -591,44 +591,9 @@ data = {
 		{
 			"Distributor":"LEHR 30652",
 			"Pdf": "LEHR 30652.pdf"
-		},
-
-			    
+		},  
 	],
-	"Sierra Electronics Police Packages": [{
-			"Vehicle": "2020 RPD MARSHAL SILVERADO",
-			"Pdf": "2020 RPD MARSHAL SILVERADO JHCQ3856.pdf"
-		},
-		{
-			"Vehicle": "2020 RPD TAHOE PATROL SUPERVISOR",
-			"Pdf": "2020 RPD TAHOE PATROL SUPERVISOR JHCQ3857.pdf"
-		},
-		{
-			"Vehicle": "2020 SILVERADO 2500 TRAFFIC ENFORCEMENT ",
-			"Pdf": "2020 RPD SILVERADO SO14103.pdf"
-		},
-		{
-			"Vehicle": "2020 RPD SILVERADO 1500 K9",
-			"Pdf": "2020 RPD SILVERADO 1500 K9 Order SO14111.pdf"
-		},
-		{
-			"Vehicle": "2020 RPD SILVERADO 2500 TRAFFIC ENFORCEMENT",
-			"Pdf": "2020 RPD SILVERADO 2500 TRAFFIC ENFORCEMENT order SO14103.pdf"
-		},
-		{
-			"Vehicle": "2020 PATROL TRUCK 1500",
-			"Pdf": "SIERRA ELECTRONICS SQ10105.pdf"
-		},
-		{
-			"Vehicle": "",
-			"Pdf": ""
-		},
-		{
-			"Vehicle": "",
-			"Pdf": ""
-		},
-	],
-	"West Coast Lights & Sirens, Inc. Police Packages": [{
+	    "West Coast Lights & Sirens, Inc. Police Packages": [{
 			"Vehicle": "CHEVY TAHOE SERGEANT 10680",
 			"Pdf": "CHEVY TAHOE SERGEANT 10680.pdf"
 		},
