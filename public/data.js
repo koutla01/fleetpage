@@ -42,7 +42,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "alt_chevy_1-3.pdf",
 			"Pdf": ""
 		},
 		{
@@ -51,7 +51,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "alt_chevy_1-4.pdf",
 			"Pdf": ""
 			}		      
 	],
