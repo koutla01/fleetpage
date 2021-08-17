@@ -481,6 +481,15 @@ data = {
     	}
     ],
 	"Sport Utility Vehicles": [{
+    		"Item #": "5.0",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "AWD",
+    		"Doors": "4",
+    		"Passengers": "4-5",
+    		"Final Order Date": "",
+    		"Pdf": "chevy_5-0.pdf"
+    	},
+	{
     		"Item #": "5.1",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "AWD",
