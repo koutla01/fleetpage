@@ -549,7 +549,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "LIMITED AVAIL PLEASE CALL",
+    		"Final Order Date": "2 2021 INSTOCK",
     		"Pdf": "police_chevy_1-2.pdf"
     	},
     	{
@@ -557,7 +557,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "PPV",
-    		"Final Order Date": "01/24/2021",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-2A.pdf"
     	},
     	{
@@ -565,7 +565,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "2WD",
     		"More": "PPV",
-    		"Final Order Date": "01/24/2021",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-2B.pdf"
     	},
     	{
