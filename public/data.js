@@ -600,7 +600,11 @@ data = {
 		{
 			"Distributor":"LEHR 30652",
 			"Pdf": "LEHR 30652.pdf"
-		},  
+		},
+		{
+			"Distributor":"SIERRA ELECTRONICS SUBURBAN",
+			"Pdf": "SE.pdf"
+		},	    
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
 			"Vehicle": "CHEVY TAHOE SERGEANT 10680",
