@@ -14,7 +14,7 @@ data = {
 			"Size": "Intermediate",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "",
+			"Final Order Date": "10/06/2021",
 			"Pdf": "chevy_1-2.pdf"
 		},
 		{
@@ -446,7 +446,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "3/4 Ton",
 			"Passengers": "12",
-			"Final Order Date": "",
+			"Final Order Date": "10/06/2021",
 			"Pdf": "chevy_4-2.pdf"
 		},
 		{
@@ -454,7 +454,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "",
+			"Final Order Date": "10/06/2021",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
@@ -469,14 +469,14 @@ data = {
     		"Item #": "4.6",
     		"Type": "CARGO VAN",
     		"Model": "3/4 Ton",
-    		"Final Order Date": "",
+    		"Final Order Date": "10/06/2021",
     		"Pdf": "chevy_4-6.pdf"
     	},
     	{
     		"Item #": "4.7",
     		"Type": "CARGO VAN",
     		"Model": "1 Ton",
-    		"Final Order Date": "",
+    		"Final Order Date": "10/06/2021",
     		"Pdf": "chevy_4-7.pdf"
     	}
     ],
@@ -495,7 +495,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "10/06/2021",
     		"Pdf": "chevy_5-1.pdf"
     	},
     	{
