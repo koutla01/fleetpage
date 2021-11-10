@@ -42,8 +42,8 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "alt_chevy_1-3.pdf",
-			"Pdf": ""
+			"Final Order Date": "12/09/2021",
+			"Pdf": "alt_chevy_1-3.pdf"
 		},
 		{
 			"Item #": "1.4",
@@ -51,8 +51,8 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "alt_chevy_1-4.pdf",
-			"Pdf": ""
+			"Final Order Date": "12/09/2021",
+			"Pdf": "alt_chevy_1-4.pdf"
 			}		      
 	],
 	"Pickups": [{
@@ -61,7 +61,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "11/18/2021",
 			"Pdf": "chevy_2-2.pdf"
 		},
 		{
@@ -70,7 +70,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "11/18/2021",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
@@ -79,7 +79,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "11/18/2021",
 			"Pdf": "chevy_2-4.pdf"
 		},
 		{
