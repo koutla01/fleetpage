@@ -522,7 +522,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "5-6",
-    		"Final Order Date": "",
+    		"Final Order Date": "08/30/2021",
     		"Pdf": "chevy_5-3.pdf"
     	},
 	{
@@ -540,7 +540,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "8-9",
-    		"Final Order Date": "",
+    		"Final Order Date": "08/30/2021",
     		"Pdf": "chevy_5-5.pdf"
     	},
     ],
