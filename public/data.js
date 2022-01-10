@@ -133,7 +133,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_2-12.pdf"
 		},
 		{
@@ -178,7 +178,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_2-18.pdf"
 		},
 		{
@@ -214,7 +214,7 @@ data = {
 			"Size": "1 Ton DRW",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_2-22.pdf"
 		},
 		{
@@ -242,7 +242,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 9900lb",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_3-1.pdf"
 		},
 		{
@@ -269,7 +269,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 10,750lb",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_3-4.pdf"
 		},
 		{
@@ -296,7 +296,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "Limited Availability",
+			"Final Order Date": "09/16/2021",
 			"Pdf": "chevy_3-7.pdf"
 		},
 		{
