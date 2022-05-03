@@ -606,6 +606,10 @@ data = {
 			"Pdf": "LEHR 30652.pdf"
 		},
 		{
+			"Distributor":"LEHR 35694",
+			"Pdf": "LEHR 35694.pdf"
+		},	    
+		{
 			"Distributor":"SIERRA ELECTRONICS SUBURBAN",
 			"Pdf": "SE.pdf"
 		},	    
