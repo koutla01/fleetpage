@@ -450,7 +450,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "3/4 Ton",
 			"Passengers": "12",
-			"Final Order Date": "10/06/2021",
+			"Final Order Date": "06/16/2022",
 			"Pdf": "chevy_4-2.pdf"
 		},
 		{
@@ -458,7 +458,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "10/06/2021",
+			"Final Order Date": "06/16/2022",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
@@ -473,14 +473,14 @@ data = {
     		"Item #": "4.6",
     		"Type": "CARGO VAN",
     		"Model": "3/4 Ton",
-    		"Final Order Date": "10/06/2021",
+    		"Final Order Date": "06/16/2022",
     		"Pdf": "chevy_4-6.pdf"
     	},
     	{
     		"Item #": "4.7",
     		"Type": "CARGO VAN",
     		"Model": "1 Ton",
-    		"Final Order Date": "10/06/2021",
+    		"Final Order Date": "06/16/2022",
     		"Pdf": "chevy_4-7.pdf"
     	}
     ],
