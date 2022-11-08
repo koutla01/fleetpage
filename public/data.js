@@ -631,8 +631,8 @@ data = {
 			"Pdf": "CHEVY TAHOE MARSHAL 12833.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TRAVERSE",
-			"Pdf": ""
+			"Vehicle": "CHEVY TRAVSERSE DETECTIVE 12903",
+			"Pdf": "CHEVY TRAVSERSE DETECTIVE 12903.pdf"
 		},					     
 	]
 }
