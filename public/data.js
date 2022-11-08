@@ -586,33 +586,21 @@ data = {
 			"Pdf": "Defender Supply 27722.pdf"
 		},
 		{	    
-			"Distributor":"LEHR 29754",
-			"Pdf": "LEHR 29754.pdf"
+			"Distributor":"LEHR 38074",
+			"Pdf": "LEHR 38074.pdf"
 		},
 		{
-			"Distributor":"LEHR 29811",
-			"Pdf": "LEHR 29811.pdf"
+			"Distributor":"LEHR 38287",
+			"Pdf": "LEHR 38287.pdf"
 		},
 		{
-			"Distributor":"LEHR 30232",
-			"Pdf": "LEHR 30232.pdf"
+			"Distributor":"LEHR 38292",
+			"Pdf": "LEHR 38292.pdf"
 		},
 		{
-			"Distributor":"LEHR 30234",
-			"Pdf": "LEHR 30234.pdf"
+			"Distributor":"LEHR 38312",
+			"Pdf": "LEHR 38312.pdf"
 		},
-		{
-			"Distributor":"LEHR 30652",
-			"Pdf": "LEHR 30652.pdf"
-		},
-		{
-			"Distributor":"LEHR 35694",
-			"Pdf": "LEHR 35694.pdf"
-		},
-		{
-			"Distributor":"LEHR 35762",
-			"Pdf": "LEHR 35762.pdf"
-		},	    
 		{
 			"Distributor":"SIERRA ELECTRONICS SUBURBAN",
 			"Pdf": "SE.pdf"
