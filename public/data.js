@@ -607,44 +607,32 @@ data = {
 		},	    
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
-			"Vehicle": "CHEVY TAHOE SERGEANT 10680",
-			"Pdf": "CHEVY TAHOE SERGEANT 10680.pdf"
+			"Vehicle": "CHEVY TAHOE SERGEANT 12743",
+			"Pdf": "CHEVY TAHOE SERGEANT 12743.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE BC 10679",
-			"Pdf": "CHEVY TAHOE BC 10679.pdf"
+			"Vehicle": "CHEVY TAHOE BC 12727",
+			"Pdf": "CHEVY TAHOE BC 12727.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE PATROL 10637",
-			"Pdf": "CHEVY TAHOE PATROL 10637.pdf"
+			"Vehicle": "CHEVY TAHOE PATROL 12000",
+			"Pdf": "CHEVY TAHOE PATROL 12000.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE SLICK TOP 10681",
-			"Pdf": "CHEVY TAHOE SLICK TOP 10681.pdf"
+			"Vehicle": "CHEVY TAHOE SLICK TOP PATROL 12745",
+			"Pdf": "CHEVY TAHOE SLICK TOP PATROL 12745.pdf"
 		},
 		{
-			"Vehicle": "CHEVY SILVERADO SWAT 10668",
-			"Pdf": "CHEVY SILVERADO SWAT 10668.pdf"
+			"Vehicle": "CHEVY 2500 DETECTIVE 12834",
+			"Pdf": "CHEVY 2500 DETECTIVE 12834.pdf"
 		},
 		{
-			"Vehicle": "CHEVY SILVERADO CSA 10771",
-			"Pdf": "CHEVY SILVERADO CSA 10771.pdf"
+			"Vehicle": "CHEVY TAHOE MARSHAL 12833",
+			"Pdf": "CHEVY TAHOE MARSHAL 12833.pdf"
 		},
 		{
-			"Vehicle": "CHEVY SILVERADO 2500 DETECTIVE 10769",
-			"Pdf": "CHEVY SILVERADO 2500 DETECTIVE 10769.pdf"
-		},
-		{
-			"Vehicle": "CHEVY SILVERADO 2500 PATROL 10770",
-			"Pdf": "CHEVY SILVERADO 2500 PATROL 10770.pdf"
-		},
-		{
-			"Vehicle": "CHEVY TAHOE SWAT 10682",
-			"Pdf": "CHEVY TAHOE SWAT 10682.pdf"
-		},
-		{
-			"Vehicle": "CHEVY TRAVERSE 10772",
-			"Pdf": "CHEVY TRAVERSE 10772.pdf"
+			"Vehicle": "CHEVY TRAVERSE",
+			"Pdf": ""
 		},					     
 	]
 }
