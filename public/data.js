@@ -133,7 +133,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-12.pdf"
 		},
 		{
@@ -142,7 +142,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-13.pdf"
 		},
 		{
@@ -151,7 +151,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-14.pdf"
 		},
 		{
@@ -160,7 +160,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-15.pdf"
 		},
 		{
@@ -169,7 +169,7 @@ data = {
 			"Size": "3/4 Ton",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-16.pdf"
 		},
 		{
@@ -178,7 +178,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-18.pdf"
 		},
 		{
@@ -187,7 +187,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "05/26/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-19.pdf"
 		},
 		{
