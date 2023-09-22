@@ -341,7 +341,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "02/25/2022",
 			"Pdf": "chevy_3-10B.pdf"
 		},
 		{
@@ -359,7 +359,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "02/25/2022",
 			"Pdf": "chevy_3-10D.pdf"
 		},
 		{
@@ -386,7 +386,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "02/25/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11B.pdf"
 		},
 		{
@@ -404,7 +404,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "02/25/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-11D.pdf"
 		}
 	],
