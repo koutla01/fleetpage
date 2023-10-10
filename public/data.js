@@ -530,15 +530,6 @@ data = {
     		"Pdf": "chevy_5-3.pdf"
     	},
 	{
-    		"Item #": "5.3A",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
-    		"Doors": "4",
-    		"Passengers": "5-6",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-3A.pdf"
-    	}, 
-    	{
     		"Item #": "5.5",
     		"Type": "SPORT UTILITY VEHICLE",
     		"Drivetrain": "4x4",
