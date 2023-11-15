@@ -359,7 +359,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "02/25/2022",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-10D.pdf"
 		},
 		{
