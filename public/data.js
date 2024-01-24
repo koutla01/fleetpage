@@ -423,7 +423,11 @@ data = {
 		{
 			"Distributor": "Diamond Truck Body 19142",
 			"Pdf": "DIAMOND 19142.pdf"
-		}	      
+		}
+		{
+			"Distributor": "Jordan's Truck & Trailer Equipment",
+			"Pdf": "Jordan's Western 2024 Chevy K3500.pdf"
+		}
 	],
 	"Passenger Vans": [{
 			"Item #": "4.1",
