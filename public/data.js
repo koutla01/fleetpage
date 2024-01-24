@@ -426,7 +426,7 @@ data = {
 		},
 		{
 			"Distributor": "Jordan's Truck & Trailer Equipment",
-			"Pdf": "Jordan's Western 2024 Chevy K3500.pdf"
+			"Pdf": "Jordan .pdf"
 		}
 	],
 	"Passenger Vans": [{
