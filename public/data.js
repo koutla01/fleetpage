@@ -14,7 +14,7 @@ data = {
 			"Size": "Intermediate",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_1-2.pdf"
 		},
 		{
@@ -88,7 +88,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_2-5.pdf"
 		},
 		{
@@ -97,7 +97,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_2-6.pdf"
 		},
 		{
@@ -106,7 +106,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_2-7.pdf"
 		},
 		{
@@ -115,7 +115,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_2-8.pdf"
 		},
 		{
@@ -124,7 +124,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "04/03/2024",
 			"Pdf": "chevy_2-9.pdf"
 		},
 		{
@@ -500,7 +500,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "04/03/2024",
     		"Pdf": "chevy_5-1A.pdf"
     	},
 	{
