@@ -53,7 +53,16 @@ data = {
 			"Passengers": "4-5",
 			"Final Order Date": "12/02/2022",
 			"Pdf": "alt_chevy_1-4.pdf"
-			}		      
+		},
+		{
+			"Item #": "2.7A",
+			"Type": "TRUCK",
+			"Size": "1/2 Ton",
+			"Cab": "Crew",
+			"Bed": "Short",
+			"Final Order Date": "",
+			"Pdf": "chevy_2-7A.pdf"
+			}
 	],
 	"Pickups": [{
 			"Item #": "2.2",
