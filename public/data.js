@@ -615,6 +615,10 @@ data = {
 		},	    
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
+			"Vehicle": "CHEVY 1500 ARSON 13931",
+			"Pdf": "CHEVY 1500 ARSON 13931.pdf"
+		},
+		{
 			"Vehicle": "CHEVY TAHOE SERGEANT 13909",
 			"Pdf": "CHEVY TAHOE SERGEANT 13909.pdf"
 		},
@@ -629,6 +633,10 @@ data = {
 		{
 			"Vehicle": "CHEVY TAHOE K9 13932",
 			"Pdf": "CHEVY TAHOE K9 13932.pdf"
+		},
+		{
+			"Vehicle": "CHEVY TAHOE SWAT 13900",
+			"Pdf": "CHEVY TAHOE SWAT 13900.pdf"
 		},
 		{
 			"Vehicle": "CHEVY 2500 SWAT 13901",
