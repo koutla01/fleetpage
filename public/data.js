@@ -615,32 +615,32 @@ data = {
 		},	    
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
-			"Vehicle": "CHEVY TAHOE SERGEANT 12743",
-			"Pdf": "CHEVY TAHOE SERGEANT 12743.pdf"
+			"Vehicle": "CHEVY TAHOE SERGEANT 13909",
+			"Pdf": "CHEVY TAHOE SERGEANT 13909.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE BC 12727",
-			"Pdf": "CHEVY TAHOE BC 12727.pdf"
+			"Vehicle": "CHEVY TAHOE ARSON CHIEF OF POLICE 13910",
+			"Pdf": "CHEVY TAHOE ARSON CHIEF OF POLICE 13910.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE PATROL 12000",
-			"Pdf": "CHEVY TAHOE PATROL 12000.pdf"
+			"Vehicle": "CHEVY TAHOE PATROL 13899",
+			"Pdf": "CHEVY TAHOE PATROL 13899.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE SLICK TOP PATROL 12745",
-			"Pdf": "CHEVY TAHOE SLICK TOP PATROL 12745.pdf"
+			"Vehicle": "CHEVY TAHOE K9 13932",
+			"Pdf": "CHEVY TAHOE K9 13932.pdf"
 		},
 		{
-			"Vehicle": "CHEVY 2500 DETECTIVE 12834",
-			"Pdf": "CHEVY 2500 DETECTIVE 12834.pdf"
+			"Vehicle": "CHEVY 2500 SWAT 13901",
+			"Pdf": "CHEVY 2500 SWAT 13901.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE MARSHAL 12833",
-			"Pdf": "CHEVY TAHOE MARSHAL 12833.pdf"
+			"Vehicle": "CHEVY 2500 ANIMAL CONTROL 13933",
+			"Pdf": "CHEVY 2500 ANIMAL CONTROL 13933.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TRAVSERSE DETECTIVE 12903",
-			"Pdf": "CHEVY TRAVSERSE DETECTIVE 12903.pdf"
+			"Vehicle": "CHEVY TRAVERSE DETECTIVE 13902",
+			"Pdf": "CHEVY TRAVERSE DETECTIVE 13902.pdf"
 		},					     
 	]
 }
