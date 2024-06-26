@@ -509,7 +509,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "04/03/2024",
+    		"Final Order Date": "",
     		"Pdf": "chevy_5-1A.pdf"
     	},
 	{
