@@ -14,7 +14,7 @@ data = {
 			"Size": "Intermediate",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "07/25/2024",
+			"Final Order Date": "07/31/2024",
 			"Pdf": "chevy_1-2.pdf"
 		},
 		{
@@ -332,7 +332,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 16,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-10.pdf"
 		},
 		{
@@ -341,7 +341,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-10A.pdf"
 		},
 		{
@@ -350,7 +350,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-10B.pdf"
 		},
 		{
@@ -359,7 +359,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-10C.pdf"
 		},
 		{
@@ -368,7 +368,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Standard",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-10D.pdf"
 		},
 		{
@@ -377,7 +377,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 16,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-11.pdf"
 		},
 		{
@@ -386,7 +386,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 17,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-11A.pdf"
 		},
 		{
@@ -395,7 +395,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 19,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-11B.pdf"
 		},
 		{
@@ -404,7 +404,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 21,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-11C.pdf"
 		},
 		{
@@ -413,7 +413,7 @@ data = {
 			"Model": "Greater than 1 Ton",
 			"Cab": "Crew",
 			"GVW": "Approx. 23,500lb",
-			"Final Order Date": "",
+			"Final Order Date": "08/22/2024",
 			"Pdf": "chevy_3-11D.pdf"
 		}
 	],
@@ -494,6 +494,15 @@ data = {
     		"Final Order Date": "",
     		"Pdf": "chevy_5-0.pdf"
     	},
+	{
+    		"Item #": "5.0A",
+    		"Type": "SPORT UTILITY VEHICLE",
+    		"Drivetrain": "FWD",
+    		"Doors": "4",
+    		"Passengers": "4-5",
+    		"Final Order Date": "",
+    		"Pdf": "chevy_5-0A.pdf"
+    	},			   
 	{
     		"Item #": "5.1",
     		"Type": "SPORT UTILITY VEHICLE",
