@@ -55,7 +55,7 @@ data = {
 			"Pdf": "alt_chevy_1-4.pdf"
 		},
 		{
-			"Item #": "2.7A",
+			"Item #": "2.7E",
 			"Type": "TRUCK",
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
