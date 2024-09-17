@@ -37,24 +37,6 @@ data = {
 			"Pdf": "alt_chevy_1-1.pdf"
 		},
 		{
-			"Item #": "1.3",
-			"Type": "SEDAN",
-			"Size": "Compact",
-			"Doors": "4",
-			"Passengers": "4-5",
-			"Final Order Date": "12/09/2021",
-			"Pdf": "alt_chevy_1-3.pdf"
-		},
-		{
-			"Item #": "1.4",
-			"Type": "SUV",
-			"Size": "Compact",
-			"Doors": "4",
-			"Passengers": "4-5",
-			"Final Order Date": "12/02/2022",
-			"Pdf": "alt_chevy_1-4.pdf"
-		},
-		{
 			"Item #": "2.7E",
 			"Type": "TRUCK",
 			"Size": "1/2 Ton",
