@@ -52,7 +52,7 @@ data = {
 			"Doors": "4",
 			"Passengers": "4-5",
 			"Final Order Date": "",
-			"Pdf": "chevy_5-1e.pdf"
+			"Pdf": "chevy_5-1E.pdf"
 			}
 	],
 	"Pickups": [{
