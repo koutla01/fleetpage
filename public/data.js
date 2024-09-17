@@ -62,6 +62,15 @@ data = {
 			"Bed": "Short",
 			"Final Order Date": "Two 3WT & Five 4WT Available",
 			"Pdf": "chevy_2-7A.pdf"
+		},
+		{
+			"Item #": "5.1E",
+			"Type": "SUV",
+			"Size": "Compact",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-1e.pdf"
 			}
 	],
 	"Pickups": [{
