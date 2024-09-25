@@ -561,7 +561,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "2WD",
     		"More": "PPV",
-    		"Final Order Date": "11/06/2023",
+    		"Final Order Date": "Limited Availability",
     		"Pdf": "police_chevy_1-2B.pdf"
     	},
     	{
