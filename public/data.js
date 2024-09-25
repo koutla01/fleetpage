@@ -545,7 +545,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "",
+    		"Final Order Date": "Limited Availability",
     		"Pdf": ""
     	},
     	{
@@ -553,7 +553,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "PPV",
-    		"Final Order Date": "",
+    		"Final Order Date": "Limited Availability",
     		"Pdf": ""
     	},
     	{
