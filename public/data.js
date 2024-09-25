@@ -546,7 +546,7 @@ data = {
     		"Drivetrain": "4WD",
     		"More": "Special Service",
     		"Final Order Date": "Limited Availability",
-    		"Pdf": ""
+    		"Pdf": "police_chevy_1-2.pdf"
     	},
     	{
     		"Item #": "1.2A",
@@ -554,7 +554,7 @@ data = {
     		"Drivetrain": "4WD",
     		"More": "PPV",
     		"Final Order Date": "Limited Availability",
-    		"Pdf": ""
+    		"Pdf": "police_chevy_1-2A.pdf"
     	},
     	{
     		"Item #": "1.2B",
