@@ -413,8 +413,8 @@ data = {
 			"Pdf": "2024 Harbor 12-31-24.pdf"
 		},
 		{
-			"Distributor": "Sierra Truck Body & Equipment 3114",
-			"Pdf": "SIERRA 3114.pdf"
+			"Distributor": "Sierra Truck Body & Equipment",
+			"Pdf": "SIERRA GOOSE.pdf"
 		},
 		{
 			"Distributor": "Delivery Concepts 768",
