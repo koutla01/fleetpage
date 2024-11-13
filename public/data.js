@@ -527,7 +527,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "5-6",
-    		"Final Order Date": "Limited Availability",
+    		"Final Order Date": "10/31/2024",
     		"Pdf": "chevy_5-3.pdf"
     	},
 	{
@@ -536,7 +536,7 @@ data = {
     		"Drivetrain": "4x4",
     		"Doors": "4",
     		"Passengers": "8-9",
-    		"Final Order Date": "Limited Availability",
+    		"Final Order Date": "10/31/2024",
     		"Pdf": "chevy_5-5.pdf"
     	},
     ],
@@ -545,7 +545,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "Limited Availability",
+    		"Final Order Date": "10/31/2024",
     		"Pdf": "police_chevy_1-2.pdf"
     	},
     	{
@@ -553,7 +553,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "PPV",
-    		"Final Order Date": "Limited Availability",
+    		"Final Order Date": "10/31/2024",
     		"Pdf": "police_chevy_1-2A.pdf"
     	},
     	{
@@ -561,7 +561,7 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "2WD",
     		"More": "PPV",
-    		"Final Order Date": "Limited Availability",
+    		"Final Order Date": "10/31/2024",
     		"Pdf": "police_chevy_1-2B.pdf"
     	},
     	{
