@@ -610,9 +610,13 @@ data = {
 			"Pdf": "LEHR 38312.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS SUBURBAN",
-			"Pdf": "SE.pdf"
-		},	    
+			"Distributor":"SIERRA ELECTRONICS A",
+			"Pdf": "SIERRA SQ10424 PT 1.pdf"
+		},
+		{
+			"Distributor":"SIERRA ELECTRONICS B",
+			"Pdf": "SIERRA SQ10424.pdf"
+		},
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
 			"Vehicle": "CHEVY 1500 ARSON 13931",
