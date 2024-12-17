@@ -619,7 +619,7 @@ data = {
 		},
 		{
 			"Distributor":"SIERRA ELECTRONICS C",
-			"Pdf": "SIERRA SQ10424.pdf"
+			"Pdf": "SIERRA SQ10424 PT 2.pdf"
 		},
 	],
 	    "West Coast Lights & Sirens, Inc. Police Packages": [{
