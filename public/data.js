@@ -42,7 +42,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "One 3WT & Two 4WT Available",
+			"Final Order Date": "Two 4WT Available",
 			"Pdf": "chevy_2-7A.pdf"
 		},
 		{
