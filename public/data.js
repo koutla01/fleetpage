@@ -413,6 +413,10 @@ data = {
 			"Pdf": "2024 Harbor.pdf"
 		},
 		{
+			"Distributor": "Harbor Truck and Van",
+			"Pdf": "2024 Harbor.pdf"
+		},
+		{
 			"Distributor": "Sierra Truck Body & Equipment",
 			"Pdf": "SIERRA GOOSE.pdf"
 		},
