@@ -70,7 +70,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "02/28/2025",
+			"Final Order Date": "05/27/2025",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
@@ -434,7 +434,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
 			"Passengers": "7-8",
-			"Final Order Date": "",
+			"Final Order Date": "04/29/2025",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
@@ -509,7 +509,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "",
+    		"Final Order Date": "09/30/2025",
     		"Pdf": "chevy_5-1A.pdf"
     	},
 	{
@@ -518,7 +518,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "7-8",
-    		"Final Order Date": "",
+    		"Final Order Date": "04/29/2025",
     		"Pdf": "chevy_5-2.pdf"
     	},
     	{
