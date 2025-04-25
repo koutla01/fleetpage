@@ -70,7 +70,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "05/27/2025",
+			"Final Order Date": "04/28/2025",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
