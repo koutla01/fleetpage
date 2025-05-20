@@ -410,7 +410,7 @@ data = {
 	],
 	"Upfit Information": [{
 			"Distributor": "Harbor Truck and Van",
-			"Pdf": "harbor 3-31.pdf"
+			"Pdf": "HARBOR 6-1.pdf"
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment",
