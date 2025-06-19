@@ -61,7 +61,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "N/A 2023",
+			"Final Order Date": "NO BID",
 			"Pdf": "chevy_2-2.pdf"
 		},
 		{
@@ -79,7 +79,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Long",
-			"Final Order Date": "N/A 2023",
+			"Final Order Date": "NO BID",
 			"Pdf": "chevy_2-4.pdf"
 		},
 		{
@@ -458,7 +458,7 @@ data = {
 		"Item #": "4.5",
 		"Type": "CARGO VAN",
 		"Model": "1/2 Ton",
-		"Final Order Date": "Not Available",
+		"Final Order Date": "NO BID",
 		"Pdf": ""
     	},
     	{
