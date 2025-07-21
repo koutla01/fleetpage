@@ -569,7 +569,7 @@ data = {
     		"Type": "PICKUP",
     		"Drivetrain": "4WD",
     		"More": "Special Service",
-    		"Final Order Date": "04/29/2025",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-3.pdf"
     	},
 	{
@@ -577,7 +577,7 @@ data = {
     		"Type": "PICKUP",
     		"Drivetrain": "4WD",
     		"More": "PPV",
-    		"Final Order Date": "04/29/2025",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-3A.pdf"
     	},
 	{
