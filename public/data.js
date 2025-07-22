@@ -434,7 +434,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
 			"Passengers": "7-8",
-			"Final Order Date": "04/24/2025",
+			"Final Order Date": "",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
@@ -491,7 +491,7 @@ data = {
     		"Drivetrain": "FWD",
     		"Doors": "4",
     		"Passengers": "4-5",
-    		"Final Order Date": "09/13/2024",
+    		"Final Order Date": "",
     		"Pdf": "chevy_5-0A.pdf"
     	},			   
 	{
@@ -518,7 +518,7 @@ data = {
     		"Drivetrain": "AWD",
     		"Doors": "4",
     		"Passengers": "7-8",
-    		"Final Order Date": "04/24/2025",
+    		"Final Order Date": "",
     		"Pdf": "chevy_5-2.pdf"
     	},
     	{
