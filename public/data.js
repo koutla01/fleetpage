@@ -205,7 +205,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "05/27/2025",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-21.pdf"
 		},
 		{
