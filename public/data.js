@@ -51,7 +51,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "04/28/2025",
+			"Final Order Date": "",
 			"Pdf": "chevy_5-1E.pdf"
 			}
 	],
