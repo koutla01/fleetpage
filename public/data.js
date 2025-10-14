@@ -594,8 +594,16 @@ data = {
     		"Type": "SUV",
     		"Drivetrain": "4WD",
     		"More": "Police Package",
-    		"Final Order Date": "04/01/2025",
+    		"Final Order Date": "",
     		"Pdf": "police_chevy_1-4.pdf"
+    	},
+	{
+    		"Item #": "1.4A",
+    		"Type": "SUV",
+    		"Drivetrain": "4WD",
+    		"More": "Police Package",
+    		"Final Order Date": "",
+    		"Pdf": "police_chevy_1-4A.pdf"
     	},
     ],
 	"Police Packages": [{
