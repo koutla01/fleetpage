@@ -601,7 +601,7 @@ data = {
     		"Item #": "1.4A",
     		"Type": "SUV",
     		"Drivetrain": "4WD",
-    		"More": "Police Package",
+	    	"More": "Special Service",
     		"Final Order Date": "",
     		"Pdf": "police_chevy_1-4A.pdf"
     	},
