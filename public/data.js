@@ -1,5 +1,6 @@
 data = {
-	"Passenger Vehicles": [{
+	"Passenger Vehicles": [
+		{
 			"Item #": "1.1",
 			"Type": "SEDAN",
 			"Size": "Full Size",
@@ -27,7 +28,8 @@ data = {
 			"Pdf": "chevy_1-3.pdf"
 		}
 	],
-	"Alternative Fuel Vehicles": [{
+	"Alternative Fuel Vehicles": [
+		{
 			"Item #": "1.1",
 			"Type": "SEDAN",
 			"Size": "Full Size",
@@ -62,9 +64,10 @@ data = {
 			"Passengers": "4-5",
 			"Final Order Date": "",
 			"Pdf": "chevy_5-2E.pdf"
-			}						  
+		}
 	],
-	"Pickups": [{
+	"Pickups": [
+		{
 			"Item #": "2.2",
 			"Type": "TRUCK",
 			"Size": "Compact",
@@ -245,7 +248,8 @@ data = {
 			"Pdf": "chevy_2-26.pdf"
 		}
 	],
-	"Cab and Chassis": [{
+	"Cab and Chassis": [
+		{
 			"Item #": "3.1",
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
@@ -417,7 +421,8 @@ data = {
 			"Pdf": "chevy_3-11D.pdf"
 		}
 	],
-	"Upfit Information": [{
+	"Upfit Information": [
+		{
 			"Distributor": "Harbor Truck and Van",
 			"Pdf": "2026 Harbor 12-31-25.pdf"
 		},
@@ -428,7 +433,7 @@ data = {
 		{
 			"Distributor": "Delivery Concepts 768",
 			"Pdf": "DELIVERY CONCEPTS 768.pdf"
-		},	      
+		},
 		{
 			"Distributor": "Diamond Truck Body 19142",
 			"Pdf": "DIAMOND 19142.pdf"
@@ -438,7 +443,8 @@ data = {
 			"Pdf": "Jordan .pdf"
 		}
 	],
-	"Passenger Vans": [{
+	"Passenger Vans": [
+		{
 			"Item #": "4.1",
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
@@ -463,195 +469,200 @@ data = {
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
-	"Cargo Vans": [{
-		"Item #": "4.5",
-		"Type": "CARGO VAN",
-		"Model": "1/2 Ton",
-		"Final Order Date": "NO BID",
-		"Pdf": ""
-    	},
-    	{
-    		"Item #": "4.6",
-    		"Type": "CARGO VAN",
-    		"Model": "3/4 Ton",
-    		"Final Order Date": "09/02/2025",
-    		"Pdf": "chevy_4-6.pdf"
-    	},
-    	{
-    		"Item #": "4.7",
-    		"Type": "CARGO VAN",
-    		"Model": "1 Ton",
-    		"Final Order Date": "09/02/2025",
-    		"Pdf": "chevy_4-7.pdf"
-    	}
-    ],
-	"Sport Utility Vehicles": [{
-    		"Item #": "5.0",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "AWD",
-    		"Doors": "4",
-    		"Passengers": "4-5",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-0.pdf"
-    	},
-	{
-    		"Item #": "5.0A",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "FWD",
-    		"Doors": "4",
-    		"Passengers": "4-5",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-0A.pdf"
-    	},			   
-	{
-    		"Item #": "5.1",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "AWD",
-    		"Doors": "4",
-    		"Passengers": "4-5",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-1.pdf"
-    	},
-    	{
-    		"Item #": "5.1A",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "AWD",
-    		"Doors": "4",
-    		"Passengers": "4-5",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-1A.pdf"
-    	},
-	{
-    		"Item #": "5.2",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "AWD",
-    		"Doors": "4",
-    		"Passengers": "7-8",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-2.pdf"
-    	},
-    	{
-    		"Item #": "5.3",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
-    		"Doors": "4",
-    		"Passengers": "5-6",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-3.pdf"
-    	},
-	{
-    		"Item #": "5.5",
-    		"Type": "SPORT UTILITY VEHICLE",
-    		"Drivetrain": "4x4",
-    		"Doors": "4",
-    		"Passengers": "8-9",
-    		"Final Order Date": "",
-    		"Pdf": "chevy_5-5.pdf"
-    	},
-    ],
- 	"Police Vehicles": [{
-    		"Item #": "1.2",
-    		"Type": "SUV",
-    		"Drivetrain": "4WD",
-    		"More": "Special Service",
-    		"Final Order Date": "10/26/2025",
-    		"Pdf": "police_chevy_1-2.pdf"
-    	},
-    	{
-    		"Item #": "1.2A",
-    		"Type": "SUV",
-    		"Drivetrain": "4WD",
-    		"More": "PPV",
-    		"Final Order Date": "ALLOCATION BASED WILL TRY",
-    		"Pdf": "police_chevy_1-2A.pdf"
-    	},
-    	{
-    		"Item #": "1.2B",
-    		"Type": "SUV",
-    		"Drivetrain": "2WD",
-    		"More": "PPV",
-    		"Final Order Date": "ALLOCATION BASED WILL TRY",
-    		"Pdf": "police_chevy_1-2B.pdf"
-    	},
-    	{
-    		"Item #": "1.3",
-    		"Type": "PICKUP",
-    		"Drivetrain": "4WD",
-    		"More": "Special Service",
-    		"Final Order Date": "",
-    		"Pdf": "police_chevy_1-3.pdf"
-    	},
-	{
-    		"Item #": "1.3A",
-    		"Type": "PICKUP",
-    		"Drivetrain": "4WD",
-    		"More": "PPV",
-    		"Final Order Date": "",
-    		"Pdf": "police_chevy_1-3A.pdf"
-    	},
-	{
-    		"Item #": "1.4",
-    		"Type": "SUV",
-    		"Drivetrain": "4WD",
-    		"More": "Police Package",
-    		"Final Order Date": "",
-    		"Pdf": "police_chevy_1-4.pdf"
-    	},
-	{
-    		"Item #": "1.4A",
-    		"Type": "SUV",
-    		"Drivetrain": "4WD",
-	    	"More": "Special Service",
-    		"Final Order Date": "",
-    		"Pdf": "police_chevy_1-4A.pdf"
-    	},
-    ],
-	"Police Packages": [{
-			"Distributor":"Defender Supply 27722",
+	"Cargo Vans": [
+		{
+			"Item #": "4.5",
+			"Type": "CARGO VAN",
+			"Model": "1/2 Ton",
+			"Final Order Date": "NO BID",
+			"Pdf": ""
+		},
+		{
+			"Item #": "4.6",
+			"Type": "CARGO VAN",
+			"Model": "3/4 Ton",
+			"Final Order Date": "09/02/2025",
+			"Pdf": "chevy_4-6.pdf"
+		},
+		{
+			"Item #": "4.7",
+			"Type": "CARGO VAN",
+			"Model": "1 Ton",
+			"Final Order Date": "09/02/2025",
+			"Pdf": "chevy_4-7.pdf"
+		}
+	],
+	"Sport Utility Vehicles": [
+		{
+			"Item #": "5.0",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "AWD",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-0.pdf"
+		},
+		{
+			"Item #": "5.0A",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "FWD",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-0A.pdf"
+		},
+		{
+			"Item #": "5.1",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "AWD",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-1.pdf"
+		},
+		{
+			"Item #": "5.1A",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "AWD",
+			"Doors": "4",
+			"Passengers": "4-5",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-1A.pdf"
+		},
+		{
+			"Item #": "5.2",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "AWD",
+			"Doors": "4",
+			"Passengers": "7-8",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-2.pdf"
+		},
+		{
+			"Item #": "5.3",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "4x4",
+			"Doors": "4",
+			"Passengers": "5-6",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-3.pdf"
+		},
+		{
+			"Item #": "5.5",
+			"Type": "SPORT UTILITY VEHICLE",
+			"Drivetrain": "4x4",
+			"Doors": "4",
+			"Passengers": "8-9",
+			"Final Order Date": "",
+			"Pdf": "chevy_5-5.pdf"
+		}
+	],
+	"Police Vehicles": [
+		{
+			"Item #": "1.2",
+			"Type": "SUV",
+			"Drivetrain": "4WD",
+			"More": "Special Service",
+			"Final Order Date": "10/26/2025",
+			"Pdf": "police_chevy_1-2.pdf"
+		},
+		{
+			"Item #": "1.2A",
+			"Type": "SUV",
+			"Drivetrain": "4WD",
+			"More": "PPV",
+			"Final Order Date": "ALLOCATION BASED WILL TRY",
+			"Pdf": "police_chevy_1-2A.pdf"
+		},
+		{
+			"Item #": "1.2B",
+			"Type": "SUV",
+			"Drivetrain": "2WD",
+			"More": "PPV",
+			"Final Order Date": "ALLOCATION BASED WILL TRY",
+			"Pdf": "police_chevy_1-2B.pdf"
+		},
+		{
+			"Item #": "1.3",
+			"Type": "PICKUP",
+			"Drivetrain": "4WD",
+			"More": "Special Service",
+			"Final Order Date": "",
+			"Pdf": "police_chevy_1-3.pdf"
+		},
+		{
+			"Item #": "1.3A",
+			"Type": "PICKUP",
+			"Drivetrain": "4WD",
+			"More": "PPV",
+			"Final Order Date": "",
+			"Pdf": "police_chevy_1-3A.pdf"
+		},
+		{
+			"Item #": "1.4",
+			"Type": "SUV",
+			"Drivetrain": "4WD",
+			"More": "Police Package",
+			"Final Order Date": "",
+			"Pdf": "police_chevy_1-4.pdf"
+		},
+		{
+			"Item #": "1.4A",
+			"Type": "SUV",
+			"Drivetrain": "4WD",
+			"More": "Special Service",
+			"Final Order Date": "",
+			"Pdf": "police_chevy_1-4A.pdf"
+		}
+	],
+	"Police Packages": [
+		{
+			"Distributor": "Defender Supply 27722",
 			"Pdf": "Defender Supply 27722.pdf"
 		},
-		{	    
-			"Distributor":"LEHR 38074",
+		{
+			"Distributor": "LEHR 38074",
 			"Pdf": "LEHR 38074.pdf"
 		},
 		{
-			"Distributor":"LEHR 38287",
+			"Distributor": "LEHR 38287",
 			"Pdf": "LEHR 38287.pdf"
 		},
 		{
-			"Distributor":"LEHR 38292",
+			"Distributor": "LEHR 38292",
 			"Pdf": "LEHR 38292.pdf"
 		},
 		{
-			"Distributor":"LEHR 38312",
+			"Distributor": "LEHR 38312",
 			"Pdf": "LEHR 38312.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS A",
+			"Distributor": "SIERRA ELECTRONICS A",
 			"Pdf": "SIERRA SQ10424 PT 1.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS B",
+			"Distributor": "SIERRA ELECTRONICS B",
 			"Pdf": "SIERRA SQ10424.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS C",
+			"Distributor": "SIERRA ELECTRONICS C",
 			"Pdf": "SIERRA SQ10424 PT 2.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS 2025 K-9",
+			"Distributor": "SIERRA ELECTRONICS 2025 K-9",
 			"Pdf": "SIERRA SQ10482.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS 2025 Supervisor",
+			"Distributor": "SIERRA ELECTRONICS 2025 Supervisor",
 			"Pdf": "SIERRA SQ10490.pdf"
 		},
 		{
-			"Distributor":"SIERRA ELECTRONICS 2026 Patrol",
+			"Distributor": "SIERRA ELECTRONICS 2026 Patrol",
 			"Pdf": "SIERRA SQ10487.pdf"
-		},
+		}
 	],
-	    "West Coast Lights & Sirens, Inc. Police Packages": [{
+	"West Coast Lights & Sirens, Inc. Police Packages": [
+		{
 			"Vehicle": "CHEVY 1500 ARSON 13931",
 			"Pdf": "CHEVY 1500 ARSON 13931.pdf"
 		},
@@ -686,6 +697,6 @@ data = {
 		{
 			"Vehicle": "CHEVY TRAVERSE DETECTIVE 13902",
 			"Pdf": "CHEVY TRAVERSE DETECTIVE 13902.pdf"
-		},					     
+		}
 	]
 }
