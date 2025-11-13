@@ -679,8 +679,8 @@ data = {
 			"Pdf": "CHEVY TAHOE PATROL 13899.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE K9 13932",
-			"Pdf": "CHEVY TAHOE K9 13932.pdf"
+			"Vehicle": "CHEVY TAHOE K9 17188",
+			"Pdf": "WCLS 17188.pdf"
 		},
 		{
 			"Vehicle": "CHEVY TAHOE SWAT 13900",
