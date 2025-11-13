@@ -671,12 +671,12 @@ data = {
 			"Pdf": "CHEVY TAHOE SERGEANT 13909.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE ARSON CHIEF OF POLICE 13910",
-			"Pdf": "CHEVY TAHOE ARSON CHIEF OF POLICE 13910.pdf"
+			"Vehicle": "CHEVY TAHOE K9 COH 17161",
+			"Pdf": "WCLS 17161.pdf"
 		},
 		{
-			"Vehicle": "CHEVY TAHOE PATROL 13899",
-			"Pdf": "CHEVY TAHOE PATROL 13899.pdf"
+			"Vehicle": "CHEVY TAHOE PATROL COH 17095",
+			"Pdf": "WCLS 17095.pdf"
 		},
 		{
 			"Vehicle": "CHEVY TAHOE K9 CLARK COUNTY 17188",
