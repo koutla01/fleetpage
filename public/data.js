@@ -649,8 +649,8 @@ data = {
 			"Pdf": "SIERRA SQ10424 PT 2.pdf"
 		},
 		{
-			"Distributor": "SIERRA ELECTRONICS 2025 K-9",
-			"Pdf": "SIERRA SQ10482.pdf"
+			"Distributor": "SIERRA ELECTRONICS 2026 K-9",
+			"Pdf": "SIERRA SQ10623.pdf"
 		},
 		{
 			"Distributor": "SIERRA ELECTRONICS 2025 Supervisor",
