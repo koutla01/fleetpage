@@ -100,7 +100,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "03/31/2026",
 			"Pdf": "chevy_2-5.pdf"
 		},
 		{
@@ -109,7 +109,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "",
+			"Final Order Date": "03/31/2026",
 			"Pdf": "chevy_2-6.pdf"
 		},
 		{
@@ -136,7 +136,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "01/13/2026",
 			"Pdf": "chevy_2-9.pdf"
 		},
 		{
