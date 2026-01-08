@@ -136,7 +136,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Extended",
 			"Bed": "Short",
-			"Final Order Date": "01/13/2026",
+			"Final Order Date": "01/09/2026",
 			"Pdf": "chevy_2-9.pdf"
 		},
 		{
@@ -449,7 +449,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "Crossover",
 			"Passengers": "7-8",
-			"Final Order Date": "",
+			"Final Order Date": "04/24/2026",
 			"Pdf": "chevy_4-1.pdf"
 		},
 		{
@@ -526,7 +526,7 @@ data = {
 			"Drivetrain": "AWD",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "02/24/2026",
+			"Final Order Date": "02/20/2026",
 			"Pdf": "chevy_5-1A.pdf"
 		},
 		{
@@ -535,7 +535,7 @@ data = {
 			"Drivetrain": "AWD",
 			"Doors": "4",
 			"Passengers": "7-8",
-			"Final Order Date": "",
+			"Final Order Date": "04/24/2026",
 			"Pdf": "chevy_5-2.pdf"
 		},
 		{
