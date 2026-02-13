@@ -44,7 +44,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "07/24/2026",
 			"Pdf": "chevy_2-7E.pdf"
 		},
 		{
@@ -53,7 +53,7 @@ data = {
 			"Size": "Compact",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_5-1E.pdf"
 		},
 		{
@@ -62,7 +62,7 @@ data = {
 			"Size": "Mid Size",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "04/24/2026",
 			"Pdf": "chevy_5-2E.pdf"
 		}
 	],
@@ -82,7 +82,7 @@ data = {
 			"Size": "Compact",
 			"Cab": "Crew",
 			"Bed": "Short",
-			"Final Order Date": "",
+			"Final Order Date": "07/24/2026",
 			"Pdf": "chevy_2-3.pdf"
 		},
 		{
@@ -100,7 +100,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Short",
-			"Final Order Date": "03/31/2026",
+			"Final Order Date": "03/27/2026",
 			"Pdf": "chevy_2-5.pdf"
 		},
 		{
@@ -109,7 +109,7 @@ data = {
 			"Size": "1/2 Ton",
 			"Cab": "Standard",
 			"Bed": "Long",
-			"Final Order Date": "03/31/2026",
+			"Final Order Date": "03/27/2026",
 			"Pdf": "chevy_2-6.pdf"
 		},
 		{
@@ -457,7 +457,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "3/4 Ton",
 			"Passengers": "12",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_4-2.pdf"
 		},
 		{
@@ -465,7 +465,7 @@ data = {
 			"Type": "PASSENGER VAN",
 			"Model": "1 Ton",
 			"Passengers": "15",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_4-4.pdf"
 		}
 	],
@@ -481,14 +481,14 @@ data = {
 			"Item #": "4.6",
 			"Type": "CARGO VAN",
 			"Model": "3/4 Ton",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_4-6.pdf"
 		},
 		{
 			"Item #": "4.7",
 			"Type": "CARGO VAN",
 			"Model": "1 Ton",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_4-7.pdf"
 		}
 	],
@@ -508,7 +508,7 @@ data = {
 			"Drivetrain": "FWD",
 			"Doors": "4",
 			"Passengers": "4-5",
-			"Final Order Date": "",
+			"Final Order Date": "09/25/2026",
 			"Pdf": "chevy_5-0A.pdf"
 		},
 		{
@@ -544,7 +544,7 @@ data = {
 			"Drivetrain": "4x4",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_5-3.pdf"
 		},
 		{
@@ -553,7 +553,7 @@ data = {
 			"Drivetrain": "4x4",
 			"Doors": "4",
 			"Passengers": "8-9",
-			"Final Order Date": "",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_5-5.pdf"
 		}
 	],
