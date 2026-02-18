@@ -543,7 +543,7 @@ data = {
 			"Type": "SPORT UTILITY VEHICLE",
 			"Drivetrain": "4x4",
 			"Doors": "4",
-			"Passengers": "5-6",
+			"Passengers": "8-9",
 			"Final Order Date": "05/29/2026",
 			"Pdf": "chevy_5-3.pdf"
 		},
