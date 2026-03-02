@@ -435,8 +435,8 @@ data = {
 			"Pdf": "DELIVERY CONCEPTS 768.pdf"
 		},
 		{
-			"Distributor": "Diamond Truck Body 19142",
-			"Pdf": "DIAMOND 19142.pdf"
+			"Distributor": "Diamond Truck Body 25304",
+			"Pdf": "DIAMOND #25304.pdf"
 		},
 		{
 			"Distributor": "Jordan's Truck & Trailer Equipment",
