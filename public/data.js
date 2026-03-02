@@ -436,7 +436,7 @@ data = {
 		},
 		{
 			"Distributor": "Diamond Truck Body 25304",
-			"Pdf": "DIAMOND #25304.pdf"
+			"Pdf": "DIAMOND 25304.pdf"
 		},
 		{
 			"Distributor": "Jordan's Truck & Trailer Equipment",
