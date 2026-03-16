@@ -424,7 +424,7 @@ data = {
 	"Upfit Information": [
 		{
 			"Distributor": "Harbor Truck and Van",
-			"Pdf": "2026 Harbor 12-31-25.pdf"
+			"Pdf": "2026 Harbor 06-30-26.pdf"
 		},
 		{
 			"Distributor": "Sierra Truck Body & Equipment",
