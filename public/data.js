@@ -331,6 +331,15 @@ data = {
 			"Pdf": "chevy_3-9.pdf"
 		},
 		{
+			"Item #": "3.10 LCF",
+			"Type": "CAB AND CHASSIS",
+			"Model": "Greater than 1 Ton",
+			"Cab": "Standard",
+			"GVW": "Approx. 14,500lb",
+			"Final Order Date": "",
+			"Pdf": "chevy_3-10 lcf.pdf"
+		},
+		{
 			"Item #": "3.10",
 			"Type": "CAB AND CHASSIS",
 			"Model": "Greater than 1 Ton",
