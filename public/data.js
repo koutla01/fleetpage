@@ -600,14 +600,6 @@ data = {
 			"Pdf": "police_chevy_1-3.pdf"
 		},
 		{
-			"Item #": "1.3A",
-			"Type": "PICKUP",
-			"Drivetrain": "4WD",
-			"More": "PPV",
-			"Final Order Date": "05/22/2026",
-			"Pdf": "police_chevy_1-3A.pdf"
-		},
-		{
 			"Item #": "1.4",
 			"Type": "SUV",
 			"Drivetrain": "4WD",
