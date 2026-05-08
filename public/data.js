@@ -612,7 +612,7 @@ data = {
 			"Type": "SUV",
 			"Drivetrain": "4WD",
 			"More": "Police Package",
-			"Final Order Date": "",
+			"Final Order Date": "07/03/2026",
 			"Pdf": "police_chevy_1-4.pdf"
 		},
 		{
@@ -620,7 +620,7 @@ data = {
 			"Type": "SUV",
 			"Drivetrain": "4WD",
 			"More": "Special Service",
-			"Final Order Date": "",
+			"Final Order Date": "07/03/2026",
 			"Pdf": "police_chevy_1-4A.pdf"
 		}
 	],
