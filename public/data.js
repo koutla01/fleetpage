@@ -580,7 +580,7 @@ data = {
 			"Type": "SUV",
 			"Drivetrain": "4WD",
 			"More": "PPV",
-			"Final Order Date": "ALLOCATION BASED WILL TRY",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "police_chevy_1-2A.pdf"
 		},
 		{
@@ -588,7 +588,7 @@ data = {
 			"Type": "SUV",
 			"Drivetrain": "2WD",
 			"More": "PPV",
-			"Final Order Date": "ALLOCATION BASED WILL TRY",
+			"Final Order Date": "05/29/2026",
 			"Pdf": "police_chevy_1-2B.pdf"
 		},
 		{
