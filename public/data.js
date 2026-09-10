@@ -35,8 +35,8 @@ data = {
 			"Size": "Mid Size",
 			"Doors": "4",
 			"Passengers": "5-6",
-			"Final Order Date": "NO BID",
-			"Pdf": "alt_chevy_1-1.pdf"
+			"Final Order Date": "",
+			"Pdf": "chevy_1-1E.pdf"
 		},
 		{
 			"Item #": "2.7E",
