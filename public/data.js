@@ -30,9 +30,9 @@ data = {
 	],
 	"Alternative Fuel Vehicles": [
 		{
-			"Item #": "1.1",
-			"Type": "SEDAN",
-			"Size": "Full Size",
+			"Item #": "1.1E",
+			"Type": "SUV",
+			"Size": "Mid Size",
 			"Doors": "4",
 			"Passengers": "5-6",
 			"Final Order Date": "NO BID",
