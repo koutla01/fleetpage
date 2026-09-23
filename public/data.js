@@ -630,6 +630,10 @@ data = {
 			"Pdf": "Defender Supply 27722.pdf"
 		},
 		{
+			"Distributor": "LEHR K9 62189",
+			"Pdf": "lehr 62189.pdf"
+		},
+		{
 			"Distributor": "LEHR 38074",
 			"Pdf": "LEHR 38074.pdf"
 		},
