@@ -309,7 +309,7 @@ data = {
 			"Model": "1 Ton DRW",
 			"Cab": "Standard",
 			"GVW": "Approx. 14,000lb",
-			"Final Order Date": "07/24/2026",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-7.pdf"
 		},
 		{
