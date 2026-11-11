@@ -273,7 +273,7 @@ data = {
 			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 10,200lb",
-			"Final Order Date": "07/24/2026",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-3.pdf"
 		},
 		{
