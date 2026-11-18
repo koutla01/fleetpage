@@ -217,7 +217,7 @@ data = {
 			"Size": "1 Ton SRW",
 			"Cab": "Extended",
 			"Bed": "Long",
-			"Final Order Date": "07/24/2026",
+			"Final Order Date": "",
 			"Pdf": "chevy_2-21.pdf"
 		},
 		{
@@ -300,7 +300,7 @@ data = {
 			"Model": "1 Ton SRW",
 			"Cab": "Extended",
 			"GVW": "Approx. 11,100lb",
-			"Final Order Date": "07/24/2026",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-6.pdf"
 		},
 		{
