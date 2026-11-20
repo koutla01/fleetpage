@@ -254,7 +254,7 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
 			"Cab": "Standard",
-			"GVW": "Approx. 10,000lb",
+			"GVW": "Approx. 10,650lb",
 			"Final Order Date": "",
 			"Pdf": "chevy_3-1.pdf"
 		},
@@ -272,7 +272,7 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
 			"Cab": "Extended",
-			"GVW": "Approx. 10,200lb",
+			"GVW": "Approx. 10,900lb",
 			"Final Order Date": "",
 			"Pdf": "chevy_3-3.pdf"
 		},
