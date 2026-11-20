@@ -263,8 +263,8 @@ data = {
 			"Type": "CAB AND CHASSIS",
 			"Model": "3/4 Ton SRW",
 			"Cab": "Crew",
-			"GVW": "Approx. 10,300lb",
-			"Final Order Date": "08/28/2026",
+			"GVW": "Approx. 11,000lb",
+			"Final Order Date": "",
 			"Pdf": "chevy_3-2.pdf"
 		},
 		{
